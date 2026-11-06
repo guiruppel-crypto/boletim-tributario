@@ -15,7 +15,10 @@ Gere a edição de hoje do "Boletim do Dia — Tributário", grave-a no banco de
 2. Leia as duas edições mais recentes (coleção `edicoes`, ordenadas por `data` decrescente, limite 2). O período coberto vai do dia seguinte à edição anterior até hoje (em segundas-feiras inclui o fim de semana). Não repita itens já reportados.
 3. Pesquise na web, dentro do período:
    - **Atos oficiais federais:** DOU, Planalto (leis, MPs, decretos), RFB (INs, soluções de consulta Cosit relevantes, ADEs), PGFN (portarias, editais de transação), Ministério da Fazenda, Comitê Gestor do IBS (CGIBS), CGSN.
-   - **Estados e municípios:** Confaz (convênios, ajustes), Sefaz estaduais, assembleias legislativas e prefeituras (ISS, IPTU, ITBI) quando relevantes.
+   - **Paraná e Confaz (categoria "estados"):** somente Paraná ou âmbito nacional.
+     - Paraná: Secretaria da Fazenda / Receita Estadual (decretos, resoluções SEFA, normas de procedimento, Refis), Assembleia Legislativa (projetos e leis de ICMS, IPVA, ITCMD, taxas, benefícios fiscais) e municípios paranaenses, sobretudo Curitiba (ISS, IPTU, ITBI, Refic).
+     - Âmbito nacional: Confaz (convênios, ajustes Sinief, atos Cotepe) e normas que valem para todos os estados ou municípios.
+     - Não inclua normas, projetos ou programas específicos de outros estados ou de municípios fora do Paraná.
    - **Legislativo:** Câmara e Senado (PLPs, PLs, PECs, resoluções, reforma tributária IBS/CBS, alíquotas, audiências).
    - **Tribunais — SOMENTE DECISÕES:** julgamentos (acórdãos, teses fixadas, repetitivos e repercussão geral julgados), liminares, tutelas, sentenças, decisões monocráticas, julgamentos iniciados ou suspensos por pedido de vista e afetações de temas repetitivos. NÃO inclua notícias institucionais dos tribunais ou do CARF (balanços, metas, estatísticas, estoque, calendários, eventos, consultas públicas, audiências públicas, iniciativas administrativas), em nenhuma categoria.
      - STF: portal de notícias https://noticias.stf.jus.br/ (percorra as notícias do período) e pautas do Plenário/Plenário Virtual, aproveitando apenas decisões.

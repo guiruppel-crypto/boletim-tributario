@@ -265,22 +265,6 @@
       "status": "Sentença (MS)"
     },
     {
-      "categoria": "estados",
-      "fontes": [
-        {
-          "data": "02/11/2026",
-          "nome": "ConJur",
-          "url": "https://conjur.com.br/2026-nov-02/alerj-aprova-projeto-de-lei-complementar-sobre-renegociacao-tributaria/"
-        }
-      ],
-      "impacto": "Após a sanção, avaliar adesão para clientes com débitos de ICMS no Rio de Janeiro.",
-      "item": "RJ — transação tributária estadual (PLC 61/2026)",
-      "materia": "Tributário",
-      "relevancia": "MÉDIA",
-      "resumo": "A Alerj aprovou a transação tributária com descontos de até 65% em multas, juros e encargos (70% para PF, ME, EPP e empresas em recuperação judicial, liquidação ou falência), parcelamento em até 120 meses (145 nos casos especiais) e compensação de até 75% do ICMS e 50% do IPVA.",
-      "status": "Aprovado; aguarda sanção"
-    },
-    {
       "categoria": "artigos",
       "fontes": [
         {
