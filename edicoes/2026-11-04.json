@@ -1,0 +1,382 @@
+{
+  "data": "2026-11-04",
+  "destaques": [
+    "CBS 2027: relator na CAE, senador Eduardo Braga disse ter sido surpreendido pela alíquota de referência de 11,3% calculada pelo TCU; audiências públicas começam em 11/11 e, sem resolução do Senado até 15/12, prevalece o percentual do TCU.",
+    "STJ (Corte Especial, Tema 1.243): a Fazenda pode habilitar crédito tributário em execução movida por terceiro sem execução fiscal ou penhora prévia; o levantamento depende do ajuizamento da execução fiscal.",
+    "STJ (2ª Turma): amortização de deságio na aquisição de participação societária pode ser excluída da base de cálculo da CSLL.",
+    "NFS-e de padrão nacional passou a ser obrigatória em 01/11/2026 para ME e EPP do Simples Nacional prestadoras de serviços (Resolução CGSN nº 191)."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem tema tributário no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal",
+      "url": "https://portal.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "TRF4 — Notícias",
+      "url": "https://www.trf4.jus.br/noticias/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "TRF1 — Notícias",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.trf1.jus.br/trf1/noticias/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF",
+      "obs": "sem julgamentos noticiados no período",
+      "url": "https://www.gov.br/carf/pt-br"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Normas",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Confaz (via Contábeis)",
+      "obs": "sem convênios no período",
+      "url": "https://www.contabeis.com.br/noticias/80193/confaz-ratifica-convenios-de-parcelamento-do-icms/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas",
+      "url": "https://www.migalhas.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA",
+      "url": "https://www.jota.info/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "InfoMoney",
+      "url": "https://www.infomoney.com.br/politica/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Fenacon",
+      "url": "https://fenacon.org.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contadores.cnt.br",
+      "url": "https://www.contadores.cnt.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Sincovaga Notícias (ADE Corat)",
+      "url": "https://www.sincovaganoticias.com.br/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca aberta por artigos tributários",
+      "obs": "resultados sem data ou genéricos foram descartados",
+      "url": ""
+    }
+  ],
+  "geradoEm": "2026-11-04T15:40:00Z",
+  "itens": [
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "out/2026",
+          "nome": "Fenacon",
+          "url": "https://fenacon.org.br/noticias/simples-nacional-nfs-e-nacional-sera-obrigatoria-para-me-e-epp-a-partir-de-1o-de-novembro-de-2026/"
+        },
+        {
+          "data": "27/10/2026",
+          "nome": "Contadores.cnt.br",
+          "url": "https://www.contadores.cnt.br/noticias/tecnicas/2026/10/27/nfs-e-no-simples-nacional-e-obrigatoria-a-partir-de-1o-de-novembro.html"
+        }
+      ],
+      "impacto": "Clientes do Simples precisam confirmar emissor e cadastro no ambiente nacional; notas fora do padrão podem gerar problemas de escrituração e cobrança.",
+      "item": "NFS-e nacional obrigatória no Simples",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Microempresas e EPPs do Simples Nacional que prestam serviços passaram a emitir a NFS-e no padrão nacional, conforme prazo fixado pela Resolução CGSN nº 191.",
+      "status": "Vigente desde 01/11"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "31/10/2026",
+          "nome": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/eduardo-braga-relator-aliquota-cbs-senado/"
+        },
+        {
+          "data": "03/11/2026",
+          "nome": "InfoMoney",
+          "url": "https://www.infomoney.com.br/politica/relator-da-cbs-no-senado-diz-que-todos-foram-pegos-de-surpresa-com-aliquota-de-113/"
+        }
+      ],
+      "impacto": "Sem resolução do Senado até 15/12, vale a alíquota do TCU para 2027. Audiências a partir de 11/11, com convite ao ministro da Fazenda e ao presidente do TCU.",
+      "item": "CBS 2027 — alíquota de referência na CAE",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A CAE confirmou Eduardo Braga como relator do projeto de resolução que fixa a alíquota de referência da CBS. Em 03/11, o relator disse que a alíquota de 11,3% (11,3468% pelo TCU) surpreendeu e pediu debate com TCU, Receita e contribuintes.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Migalhas nº 6.468",
+          "url": "https://www.migalhas.com.br/amanhecidas/467796/migalhas-n-6-468"
+        }
+      ],
+      "impacto": "Precedente favorável a contribuintes com operações de aquisição societária; avaliar teses e autuações em curso. Acompanhar a publicação do acórdão.",
+      "item": "STJ — CSLL e amortização de deságio",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A 2ª Turma admitiu excluir da base de cálculo da CSLL a amortização de deságio decorrente da compra de participação em outra empresa.",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "03/11/2026",
+          "nome": "STJ — Informativo 908",
+          "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar"
+        }
+      ],
+      "impacto": "Contratos de cessão ou promessa não afastam a cobrança do titular registral, salvo lei municipal em contrário; revisar cláusulas de responsabilidade entre as partes.",
+      "item": "STJ — IPTU e cessão de posse (REsp 2.294.977-SC)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 2ª Turma decidiu que a cessão particular da posse, ainda que comunicada ao município antes do fato gerador, não tira do proprietário registral a legitimidade passiva para o IPTU (arts. 34 e 123 do CTN; Tema 122/STJ).",
+      "status": "Julgado (Inf. 908)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Migalhas nº 6.468",
+          "url": "https://www.migalhas.com.br/amanhecidas/467796/migalhas-n-6-468"
+        }
+      ],
+      "impacto": "Tema relevante para a eficácia de alienações de ativos em período suspeito; aguardar retomada.",
+      "item": "STJ — venda de unidade industrial antes da falência",
+      "materia": "Empresarial",
+      "relevancia": "MÉDIA",
+      "resumo": "O STJ suspendeu, após pedido de vista, o julgamento sobre a validade da venda de uma unidade industrial de abate de suínos realizada antes da falência.",
+      "status": "Suspenso (vista)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Migalhas nº 6.468",
+          "url": "https://www.migalhas.com.br/amanhecidas/467796/migalhas-n-6-468"
+        }
+      ],
+      "impacto": "Reforça a observância dos critérios de conversão definidos na sentença arbitral no cumprimento em juízo.",
+      "item": "STJ — conversão de dívida em dólar fixada em título arbitral",
+      "materia": "Empresarial",
+      "relevancia": "MÉDIA",
+      "resumo": "O STJ determinou que uma dívida de US$ 13 milhões seja convertida pela cotação de 1º/10/2015, como previsto no título arbitral.",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-02/tj-sp-afasta-tema-1-076-do-stj-e-autoriza-honorarios-por-equidade-em-rj/"
+        }
+      ],
+      "impacto": "Sinaliza honorários por equidade em incidentes da recuperação judicial; útil em impugnações de crédito de alto valor.",
+      "item": "TJ-SP — honorários por equidade em impugnação de crédito na RJ",
+      "materia": "Empresarial",
+      "relevancia": "MÉDIA",
+      "resumo": "A 2ª Câmara Reservada de Direito Empresarial afastou o Tema 1.076/STJ nas impugnações de crédito e reduziu honorários de 10% sobre R$ 31,5 milhões para R$ 20 mil (AI 2194546-50.2025.8.26.0000).",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-02/tj-sp-mantem-exclusao-de-credito-trabalhista-de-recuperacao-judicial/"
+        }
+      ],
+      "impacto": "Reafirma que a sujeição ao plano depende da data do fato gerador do crédito.",
+      "item": "TJ-SP — crédito trabalhista posterior ao plano fora da RJ",
+      "materia": "Empresarial",
+      "relevancia": "BAIXA",
+      "resumo": "A 2ª Câmara Reservada manteve a exclusão de crédito trabalhista de R$ 80,1 mil cujo fato gerador (dispensa em 2012) é posterior ao plano e à concessão da recuperação (Ap. 4042004-04.2025.8.26.0100).",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "03/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-03/consumacao-nao-e-tempo-da-aplicacao-da-lei-12-234-10-pelo-stj-aos-crimes-tributarios"
+        }
+      ],
+      "impacto": "Argumento útil em defesas penais tributárias envolvendo fatos antigos.",
+      "item": "Crimes tributários e Lei 12.234/2010",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Odel Antun sustenta que o tempo do crime é o da conduta fraudulenta, e não o da constituição definitiva do crédito, de modo que a vedação à prescrição retroativa não alcançaria fraudes anteriores a maio de 2010.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-02/fazenda-pode-habilitar-credito-direto-em-execucao-de-terceiros/"
+        }
+      ],
+      "impacto": "Credores privados passam a concorrer com o Fisco em execuções comuns; reavaliar estratégia de recebimento quando o devedor tiver passivo tributário.",
+      "item": "STJ — habilitação de crédito da Fazenda em execução de terceiro (Tema 1.243)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A Corte Especial fixou que a Fazenda Pública pode habilitar crédito tributário em execução movida por terceiro contra o devedor, mesmo sem execução fiscal ajuizada ou penhora (REsp 2.081.493, 2.093.011 e 2.093.022). O levantamento exige o ajuizamento da execução fiscal e a demonstração de certeza, liquidez e exigibilidade.",
+      "status": "Julgado (repetitivo)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur (artigo de Guilherme Capello Silva)",
+          "url": "https://conjur.com.br/2026-nov-02/stj-reforca-exigencia-de-decisao-fundamentada-na-nao-homologacao-de-compensacoes-tributarias/"
+        }
+      ],
+      "impacto": "Despachos decisórios que só trazem tabelas e valores podem ser questionados; revisar cobranças de compensações não homologadas.",
+      "item": "STJ — não homologação de compensação exige decisão fundamentada",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 2ª Turma (REsp 2.186.258/RS) exigiu decisão formal e fundamentada de não homologação e intimação específica para manifestação de inconformidade antes da cobrança.",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "01/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-01/reducao-de-multa-fiscal-retroage-para-atos-anteriores-a-lei-complementar/"
+        }
+      ],
+      "impacto": "Abre caminho para pedir a redução de multas superiores a 75% em débitos estaduais e municipais antigos.",
+      "item": "TJ-SP — retroatividade do teto de multa da LC 236/2026",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 9ª Vara da Fazenda Pública de São Paulo suspendeu a exigibilidade de débitos e sustou protesto, reconhecendo aparente direito à aplicação retroativa do limite de 75% para multas a fatos anteriores à lei (proc. 1161941-69.2026.8.26.0053).",
+      "status": "Liminar"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "01/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-01/pagar-valorizacao-no-itcmd-impede-incidencia-de-ir-sobre-ganho-capital/"
+        }
+      ],
+      "impacto": "Precedente útil em planejamento sucessório e em inventários com atualização de bens a valor de mercado.",
+      "item": "JF/RS — IR sobre herança transmitida a valor de mercado",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 13ª Vara Federal de Porto Alegre afastou o IR sobre a valorização de bens transmitidos por herança, por já ter havido ITCMD sobre a mesma diferença (MS 5039526-66.2026.4.04.7100).",
+      "status": "Sentença (MS)"
+    },
+    {
+      "categoria": "estados",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-02/alerj-aprova-projeto-de-lei-complementar-sobre-renegociacao-tributaria/"
+        }
+      ],
+      "impacto": "Após a sanção, avaliar adesão para clientes com débitos de ICMS no Rio de Janeiro.",
+      "item": "RJ — transação tributária estadual (PLC 61/2026)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A Alerj aprovou a transação tributária com descontos de até 65% em multas, juros e encargos (70% para PF, ME, EPP e empresas em recuperação judicial, liquidação ou falência), parcelamento em até 120 meses (145 nos casos especiais) e compensação de até 75% do ICMS e 50% do IPVA.",
+      "status": "Aprovado; aguarda sanção"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "02/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-02/cbs-de-113-e-neutra-para-o-fisco-nao-para-cada-contribuinte/"
+        }
+      ],
+      "impacto": "Subsídio para estimar efeitos setoriais da CBS e para o debate na CAE.",
+      "item": "CBS de 11,3%: neutralidade para o Fisco, não para o contribuinte",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Eduardo De Vitto argumenta que a neutralidade prometida pela reforma é de arrecadação federal, e não de carga individual, o que a alíquota de referência de 11,3% deixa evidente.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "31/10/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-out-31/lc-236-26-e-a-fianca-como-hipotese-de-suspensao-da-exigibilidade/"
+        }
+      ],
+      "impacto": "Fundamento para afastar protestos e restrições após oferta de garantia.",
+      "item": "LC 236/2026: fiança e seguro garantia suspendem a exigibilidade",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Rafael Platini sustenta que o novo inciso X do art. 151 do CTN faz garantias aceitas em execução fiscal suspenderem a exigibilidade, afastando protesto e Cadin, mas que protestos anteriores ao ajuizamento ainda dependem do Tema 1.263/STJ.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Primeira edição no novo formato; cobre o fim de semana e o feriado de Finados.",
+  "periodo": "31/10/2026 a 04/11/2026"
+}

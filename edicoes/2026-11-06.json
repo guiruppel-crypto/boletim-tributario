@@ -1,0 +1,366 @@
+{
+  "data": "2026-11-06",
+  "destaques": [
+    "STJ (4ª Turma): subclasses na RJ são válidas, mas deságio de 90% sobre créditos trabalhistas acima de 25 salários mínimos viola a isonomia e foi anulado (REsps 2.107.582, 2.039.036 e 2.021.576).",
+    "CBS 2027: CNI pede ao Senado revisão da alíquota de 11,3% calculada pelo TCU; OAB e 27 entidades pedem adiar CBS e Imposto Seletivo para 2028. O estudo do TCU chega ao Senado em 10/11 e a resolução deve sair até 15/12.",
+    "Semana que vem: em 11/11 a 1ª Seção do STJ pauta os repetitivos Temas 1.263 (seguro garantia x protesto/Cadin), 1.412 (bonificações na base do PIS/Cofins) e 1.426; o DCP do 3º trimestre vence em 13/11.",
+    "TJ-SP afasta, em exceção de pré-executividade, multa estadual de 355% por efeito confiscatório (limite de 100%, Tema 863 do STF), com honorários contra a Fazenda.",
+    "Sergipe aprova Refis de ICMS, IPVA e ITCMD com até 95% de desconto em juros e multas; depende de sanção e decreto."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem decisões tributárias/empresariais no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Pauta e Plenário Virtual",
+      "obs": "sem novidades no período",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-3/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Últimas notícias",
+      "obs": "bloqueia leitura automática; notícias do dia sem tema tributário/empresarial",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Ultimas-noticias.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "obs": "sem nova edição no período",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF — Acórdãos",
+      "obs": "sem decisões noticiadas no período",
+      "url": "https://www.gov.br/carf/pt-br/jurisprudencia/acordaos-carf"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "TJ-SP — Câmaras Reservadas de Direito Empresarial",
+      "obs": "sem decisões noticiadas no período",
+      "url": "https://www.tjsp.jus.br/CamarasEspecializadasReservadas"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Normas (Sijut)",
+      "obs": "sem novidades no período",
+      "url": "https://normas.receita.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "CVM — Resoluções",
+      "obs": "sem novidades no período",
+      "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes.html"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Comitê Gestor do IBS",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.cgibs.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Confaz",
+      "obs": "sem novidades no período",
+      "url": "https://www.confaz.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Câmara dos Deputados — Notícias",
+      "url": "https://www.camara.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Assembleia Legislativa de Sergipe (via RO Acontece)",
+      "url": "https://roacontece.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Opinião",
+      "url": "https://conjur.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas — Migalhas de Peso e Quentes",
+      "url": "https://www.migalhas.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA — Tributos",
+      "obs": "bloqueia leitura automática; resultados antigos descartados",
+      "url": "https://www.jota.info/tributos"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Rota da Jurisprudência",
+      "url": "https://rotadajurisprudencia.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Fenacon",
+      "url": "https://fenacon.org.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Jornal do Comércio",
+      "obs": "sem novidades no período",
+      "url": "https://www.jornaldocomercio.com/economia/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Capital Aberto",
+      "obs": "texto fora do período",
+      "url": "https://capitalaberto.com.br/regulacao/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Yogonet",
+      "obs": "fora do escopo",
+      "url": "https://www.yogonet.com/brasil/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca web — artigos e decisões tributárias e empresariais",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.google.com/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Agenda tributária de novembro (Fenacon)",
+      "url": "https://fenacon.org.br/?p=56004"
+    }
+  ],
+  "geradoEm": "2026-11-06T09:50:03Z",
+  "itens": [
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-05/stj-veta-subclasse-de-credor-trabalhista-com-desagio-de-90-na-rj/"
+        }
+      ],
+      "impacto": "Planos com tratamento diferenciado da classe trabalhista precisam de critério objetivo e deságio proporcional; cláusulas agressivas ficam sujeitas a anulação mesmo após aprovação em assembleia.",
+      "item": "STJ — subclasse de credores trabalhistas com deságio de 90% na RJ",
+      "materia": "Empresarial",
+      "relevancia": "ALTA",
+      "resumo": "A 4ª Turma do STJ (rel. Min. Antonio Carlos Ferreira; REsps 2.107.582, 2.039.036 e 2.021.576) admitiu a criação de subclasses de credores no plano de recuperação, mas anulou a cláusula que impunha deságio de 90% sobre a parcela dos créditos trabalhistas acima de 25 salários mínimos, por violar a isonomia. A Min. Isabel Gallotti acompanhou pela anulação apenas por considerar o deságio abusivo.",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-05/tj-sp-afasta-multa-de-355-em-execucao-fiscal-de-r-24-milhoes/"
+        }
+      ],
+      "impacto": "Reforça a via da exceção de pré-executividade para reduzir multas estaduais acima de 100% do tributo, com ganho de honorários sucumbenciais ao contribuinte.",
+      "item": "TJ-SP — multa de 355% afastada em execução fiscal",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 13ª Câmara de Direito Público do TJ-SP (AI 2215786-61.2026.8.26.0000, rel. Des. Borelli Thomaz), por unanimidade, considerou confiscatória multa punitiva de cerca de 355% do imposto em execução fiscal de R$ 24 milhões, aplicando o limite de 100% do Tema 863 do STF. Admitiu a discussão em exceção de pré-executividade e condenou a Fazenda em honorários (Tema 1.076 do STJ).",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "estados",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "RO Acontece",
+          "url": "https://roacontece.com.br/2026/11/05/projetos-de-lei-que-criam-refis-para-icms-ipva-e-itcmd-sao-aprovados-na-alese/"
+        }
+      ],
+      "impacto": "Janela relevante para regularizar passivos estaduais em SE; a adesão dependerá de sanção e decreto regulamentar, com operação pelo portal de autorregularização da Sefaz-SE.",
+      "item": "SE — Refis de ICMS, IPVA e ITCMD (PLs 215 a 217/2026)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A Assembleia Legislativa de Sergipe aprovou três projetos do Executivo: ICMS (fatos geradores até 30/04/2026, até 84 parcelas), IPVA (até o exercício de 2025, até 48 parcelas) e ITCMD (até 30/04/2026, até 60 parcelas), todos com redução de até 95% de juros e multas, inscritos ou não em dívida ativa.",
+      "status": "Aprovado; aguarda sanção"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/noticias/80614/cni-questiona-cbs-de-11-3-e-pede-revisao-ao-senado/"
+        },
+        {
+          "data": "05/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/amanhecidas/467899/migalhas-n-6-469"
+        }
+      ],
+      "impacto": "Aumenta a pressão política antes do envio do estudo do TCU ao Senado (10/11) e do prazo de 15/12 para a resolução; empresas devem manter o cronograma de 2027 até eventual alteração normativa.",
+      "item": "CBS 2027 — CNI, OAB e entidades pedem revisão da alíquota e adiamento",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A CNI pediu ao Senado que revise os critérios do TCU para a alíquota de referência de 11,3% (base 2012–2021 inflada pelo ICMS/ISS na base do PIS/Cofins, sem considerar IS e IPI residual) e solicitou aos ministérios estender o período de testes por todo 2027. Em paralelo, a OAB (manifesto do Conselho Federal e das 27 seccionais) e 27 entidades pediram adiar para 01/01/2028 as etapas de 2027 (CBS e Imposto Seletivo).",
+      "status": "Pleito ao Senado/Executivo"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "Fenacon",
+          "url": "https://fenacon.org.br/noticias/votacao-de-novo-teto-do-simples-pode-ocorrer-ainda-em-2026-afirmam-deputados/"
+        }
+      ],
+      "impacto": "Se aprovado ainda em 2026 (Câmara e Senado), amplia o universo de empresas elegíveis ao Simples justamente na transição para IBS/CBS; a regra de transição ainda está em negociação com o governo.",
+      "item": "Câmara — PLP 108/2021 (novo teto do Simples Nacional)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Em reunião com a CACB, o relator Dep. Jorge Goetten informou que o presidente da Câmara se comprometeu a votar ainda em novembro o PLP 108/2021; a proposta em discussão eleva o teto da ME de R$ 360 mil para R$ 870 mil e o da EPP de R$ 4,8 milhões para R$ 8,7 milhões, de forma escalonada entre 2027 e 2029, com correção automática.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-05/tres-decisoes-ampliam-poder-do-fisco-e-deixam-contraditorio-para-depois/"
+        }
+      ],
+      "impacto": "Útil para estruturar defesas em concursos de credores e em pedidos falimentares fazendários, explorando a ausência de salvaguardas procedimentais.",
+      "item": "Três decisões que ampliam o poder do Fisco",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Arthur Francis Coulter (FLP Advogados) sustenta que o Tema 1.243 do STJ (habilitação da Fazenda em execução de terceiro), a ADI 7.943 do STF (validade da LC 225/2026, do devedor contumaz) e o REsp 2.196.073/SE (legitimidade da Fazenda para pedir falência) antecipam a constrição patrimonial e postergam o contraditório. Propõe lei federal disciplinando o pedido de falência pela Fazenda e critérios para a reserva de crédito.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-05/convenios-icms-a-internalizacao-parcial-como-revogacao-sem-autorizacao-do-confaz/"
+        }
+      ],
+      "impacto": "Abre tese para transportadoras e outros beneficiários de convênios contestarem restrições estaduais e estornos de crédito exigidos com base em internalização parcial.",
+      "item": "Internalização parcial de convênios de ICMS",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Rafael da Cruz Araújo Vieira defende que o estado que internaliza apenas parte de um convênio do Confaz pratica revogação parcial sem autorização, usando como exemplo o Decreto 2.212/2014 de MT, que restringiu o crédito de 20% do Convênio ICMS 106/96 a prestações interestaduais de transporte. Cita a ADI 5.929 e precedentes de TJ-AL, TJ-MT e TJ-SP.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-05/aliquota-reduzida-nao-e-carga-reduzida-a-reforma-tributaria-e-o-setor-da-saude/"
+        }
+      ],
+      "impacto": "Recomenda simulações por cliente do setor de saúde antes de 2027, inclusive revisão de contratação de médicos e reorganizações societárias.",
+      "item": "Saúde na reforma: alíquota reduzida não é carga reduzida",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Graziela Toledo Bezerra argumenta que a redução de 60% do IBS/CBS para serviços de saúde não garante menor carga: o resultado depende do volume de créditos nas compras, do modelo de contratação de profissionais e da estrutura jurídica. Prestadores intensivos em mão de obra (clínicas e laboratórios menores) tendem a perder; hospitais com muitos insumos tendem à neutralidade.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/467863/ipva-leasing-e-competencia-tributaria-os-impactos-da-adin-4-376"
+        }
+      ],
+      "impacto": "Arrendadoras e locadoras podem rever execuções fiscais de IPVA em massa ajuizadas pelo estado errado ou com responsabilização indevida de administradores.",
+      "item": "IPVA, leasing e a ADI 4.376",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Bruno Chiquetti (Reis Advogados) analisa a ADI 4.376/SP (rel. Min. Gilmar Mendes, DJe 02/10/2026), que fixou a competência do IPVA de veículos arrendados pelo domicílio do arrendatário e declarou inconstitucionais hipóteses de responsabilidade da lei paulista 13.296/2008. Sustenta que a decisão permite contestar cobranças que ignorem esse domicílio, sem eliminar por completo a responsabilidade das arrendadoras.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/quentes/467976/advogado-explica-mudancas-no-imposto-seletivo-previstas-para-2027"
+        }
+      ],
+      "impacto": "Importadores e fabricantes devem rever classificação fiscal e precificação, e organizar rotina de conferência da apuração assistida antes de fevereiro de 2027.",
+      "item": "Imposto Seletivo 2027: pontos práticos da MP 1.399/2026",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Em análise ao Migalhas, Luiz Eduardo Costa Lucas (Martinelli Advogados) destaca fatores adicionais na importação (1,17 para veículos, embarcações e aeronaves; 1,45 para bebidas alcoólicas e açucaradas), reduções de 10% a 40% para pequenos produtores de bebidas e o risco da apuração assistida: sem manifestação da empresa, o saldo calculado pela Receita é presumido correto.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "06/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-06/a-concorrencia-nao-pode-ser-proibida-por-contrato/"
+        }
+      ],
+      "impacto": "Contratos de distribuição e plataformas devem calibrar cláusulas de exclusividade para evitar nulidade e risco concorrencial.",
+      "item": "Cláusulas de banimento e concorrência",
+      "materia": "Empresarial",
+      "relevancia": "MÉDIA",
+      "resumo": "Gesner Oliveira (GO Associados, ex-presidente do Cade) distingue exclusividade, que pode ter justificativa econômica, de cláusulas que proíbem o parceiro de negociar com rivais, que considera barreira artificial à luz do art. 36 da Lei 12.529/2011. Usa como caso a decisão unânime da 2ª Câmara Reservada de Direito Empresarial do TJ-SP que vedou à 99Food cláusulas impeditivas de relação de restaurantes com a Keeta.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "05/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/467854/recuperacao-judicial-do-produtor-rural-realidade-brasileira"
+        }
+      ],
+      "impacto": "Orienta credores do agro e produtores sobre sujeição de CPRs e garantias e sobre a ausência de proteção automática a coobrigados.",
+      "item": "Recuperação judicial do produtor rural",
+      "materia": "Empresarial",
+      "relevancia": "BAIXA",
+      "resumo": "Igor Gouveia de Andrade (Amaral & Melo) analisa dados da Serasa (448 pedidos de RJ no agro no 2º trimestre de 2026, queda de 20,7%) e defende que o êxito da RJ rural depende de viabilidade econômica e transparência. Revisita o Tema 1.145 do STJ e precedente da 3ª Turma que excluiu da RJ crédito de CPR física vinculada a barter.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Itens já reportados em edições anteriores não foram repetidos.",
+  "periodo": "05/11/2026 a 06/11/2026"
+}

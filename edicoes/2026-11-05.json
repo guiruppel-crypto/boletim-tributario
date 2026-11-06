@@ -1,0 +1,417 @@
+{
+  "data": "2026-11-05",
+  "destaques": [
+    "MP 1.399/2026 (DOU extra de 04/11): fixa as alíquotas do Imposto Seletivo para 2027, com cobrança a partir de 02/02/2027 e IPI zerado na mesma data; o regime transitório espelha o IPI atual (cigarros 66,7% + R$ 3,50/vintena, cerveja 4,2%, bebidas açucaradas 2,6%).",
+    "STF (Tema 1.348, Inf. 1.235): a imunidade do ITBI na integralização de capital com imóveis é incondicionada e independe da atividade preponderante da empresa, ressalvadas simulação ou fraude — impacto direto em holdings e reorganizações.",
+    "CBS 2027: o TCU deve enviar o estudo da alíquota de 11,3% ao Senado em 10/11, mesma data prevista para a audiência pública da CAE; o Senado tem até 15/12 para fixar o percentual por resolução.",
+    "Receita prorrogou até 30/12 a adesão às transações dos Editais nº 9 e 10/2026; contribuintes com Selo Confia ou Sintonia podem autorregularizar débitos sem multa de mora (IN RFB 2.346/2026)."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem decisões tributárias ou empresariais noticiadas no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Pauta do Plenário (04/11)",
+      "obs": "sem processos tributários",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-a-pauta-do-stf-desta-quarta-feira-4-3/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Informativo nº 1.235",
+      "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo.htm"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Últimas notícias",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Ultimas-noticias.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "obs": "sem informativo novo no período",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/?acao=pesquisar"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "TJ-SP — Câmaras Reservadas de Direito Empresarial (via ConJur)",
+      "url": "https://conjur.com.br/2026-nov-04/coacao-em-cessao-de-quotas-exige-dilacao-probatoria-e-afasta-julgamento-antecipado/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF (busca)",
+      "obs": "sem decisões noticiadas no período",
+      "url": "https://www.gov.br/carf/pt-br"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "TRFs (busca)",
+      "obs": "sem decisões noticiadas no período",
+      "url": "https://www.trf4.jus.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Notícias",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "DOU 04/11/2026 (monitor)",
+      "obs": "sem atos normativos relevantes",
+      "url": "https://github.com/rnbassi/monitor-dou/issues/4"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Confaz (busca)",
+      "obs": "sem novidades no período",
+      "url": "https://www.confaz.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "CGIBS (busca)",
+      "obs": "sem novidades no período",
+      "url": "https://www.cgibs.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "CVM (busca)",
+      "obs": "sem novidades no período",
+      "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "DREI (busca)",
+      "obs": "sem novidades no período",
+      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Prefeituras — ISS/IPTU (busca)",
+      "obs": "resultados antigos descartados",
+      "url": "https://prefeitura.poa.br/smf/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Câmara dos Deputados — Notícias",
+      "url": "https://www.camara.leg.br/noticias"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Página inicial",
+      "url": "https://conjur.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas — Migalhas de Peso e Quentes",
+      "url": "https://www.migalhas.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA — Tributos",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.jota.info/tributos"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Fenacon",
+      "url": "https://fenacon.org.br/reforma-tributaria/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "O POVO+ (Agência Estado)",
+      "url": "https://mais.opovo.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis",
+      "obs": "sem novidades no período",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Piranot",
+      "url": "https://www.piranot.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Estadão / Valor (busca)",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.estadao.com.br/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca aberta por artigos tributários (reforma, ITCMD, ganho de capital, transação)",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.google.com/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Brasil 247",
+      "url": "https://www.brasil247.com/economia/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Mix Vale",
+      "url": "https://www.mixvale.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "BNews",
+      "url": "https://www.bnews.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Poder360 — íntegra da MP",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.poder360.com.br/poder-integras/leia-a-integra-da-mp-do-imposto-do-pecado-baixada-por-lula/"
+    }
+  ],
+  "geradoEm": "2026-11-05T09:49:09Z",
+  "itens": [
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Brasil 247",
+          "url": "https://www.brasil247.com/economia/mp-cria-regime-gradual-para-o-imposto-do-pecado-a-partir-de-fevereiro-de-2027/"
+        },
+        {
+          "data": "05/11/2026",
+          "nome": "Mix Vale",
+          "url": "https://www.mixvale.com.br/2026/11/05/imposto-seletivo-medida-provisoria-de-lula-fixa-aliquotas-para-2027/"
+        },
+        {
+          "data": "05/11/2026",
+          "nome": "BNews",
+          "url": "https://www.bnews.com.br/noticias/politica/governo-lula-publica-mp-do-imposto-do-pecado-e-estima-arrecadacao-de-r-419-bilhoes.html"
+        }
+      ],
+      "impacto": "Afeta diretamente a precificação e o planejamento de fabricantes e importadores de bebidas, fumo, veículos, aeronaves, embarcações e loterias; abre discussão sobre o uso de MP para tributo instituído por lei complementar e sobre a anterioridade. Como a MP vale por 60 dias, prorrogáveis por mais 60, é preciso acompanhar a conversão no Congresso.",
+      "item": "MP 1.399/2026 — alíquotas do Imposto Seletivo para 2027",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A MP, publicada em edição extra do DOU de 04/11, fixa as alíquotas e regras do Imposto Seletivo para 2027, com cobrança a partir de 02/02/2027, mesma data em que o IPI sobre esses bens vai a zero. No regime transitório, que vale até 31/12/2027, as alíquotas de veículos, aeronaves, embarcações, fumígenos, bebidas alcoólicas e açucaradas espelham o IPI atual por fatores de conversão; segundo a imprensa, ficam, por exemplo, em 66,7% mais R$ 3,50 por vintena para cigarros, 4,2% para cerveja e 2,6% para bebidas açucaradas, com alíquota zero para minerais, PcD/TEA, táxis e veículos sustentáveis. O governo deve enviar até 31/05/2027 projeto com as alíquotas de 2028, e uma PEC acompanha a MP para manter o IPI nesses setores até lá.",
+      "status": "Publicada (DOU extra 04/11)"
+    },
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "03/11/2026",
+          "nome": "Receita Federal — Notícias",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-prorroga-prazo-para-adesao-a-editais-de-transacao-tributaria-ate-30-de-dezembro"
+        }
+      ],
+      "impacto": "Dá mais tempo para clientes com débitos no contencioso administrativo ou em cobrança na RFB simularem e formalizarem a adesão ainda em 2026.",
+      "item": "RFB — prazo de adesão aos Editais de transação nº 9 e 10/2026",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A Receita Federal prorrogou, por portaria, até 30/12/2026 o prazo para aderir às modalidades de transação tributária dos Editais nº 9 e nº 10 de 2026. A notícia saiu em 03/11 e não constou da edição anterior.",
+      "status": "Prazo prorrogado até 30/12"
+    },
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "03/11/2026",
+          "nome": "Receita Federal — Notícias",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/contribuintes-com-selo-confia-e-sintonia-podem-regularizar-pendencias-sem-multa-de-mora"
+        }
+      ],
+      "impacto": "Cria uma via barata de regularização para empresas certificadas; o inadimplemento das parcelas restabelece a multa sobre o saldo, o que pede análise antes da confissão.",
+      "item": "RFB — autorregularização sem multa de mora (IN RFB 2.346/2026)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Com base na IN RFB nº 2.346/2026 e na LC 225/2026, contribuintes com Selo Confia ou Sintonia que recebam comunicação de autorregularização podem quitar pendências sem multa de mora, mantidos tributo e juros. Exige confissão irrevogável, pagamento à vista, em até 60 parcelas ou por compensação, e manifestação em 60 dias da comunicação; não alcança débitos já autuados.",
+      "status": "Vigente"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Fenacon (Agência Senado)",
+          "url": "https://fenacon.org.br/reforma-tributaria/senado-deve-receber-calculo-da-cbs-na-proxima-terca-para-definir-aliquota/"
+        },
+        {
+          "data": "04/11/2026",
+          "nome": "O POVO+ (Agência Estado)",
+          "url": "https://mais.opovo.com.br/jornal/economia/2026/11/04/relator-da-cbs-eduardo-braga-diz-nao-estar-de-acordo-com-aliquota-de-113.html"
+        }
+      ],
+      "impacto": "A semana que vem concentra a disputa técnica sobre a alíquota de 2027; sem resolução até 15/12, prevalece o percentual do TCU, o que importa para a precificação de contratos.",
+      "item": "Senado/CAE — calendário da alíquota de referência da CBS",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Segundo a Agência Senado, reproduzida pela Fenacon, o TCU deve enviar o estudo da alíquota de 11,3% à Presidência do Senado em 10/11, data também prevista para a audiência pública da CAE aprovada pelo REQ 107/2026 (Izalci Lucas), com TCU, Receita, Fazenda, Sefaz e setor produtivo. Izalci também prepara projeto de lei complementar exigindo revisão anual da alíquota, e Esperidião Amin quer incluir o IBS no debate.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Piranot",
+          "url": "https://www.piranot.com.br/2026/11/04/noticias/economia/camara-zera-tributos-agroexportadoras/"
+        }
+      ],
+      "impacto": "Ainda é uma proposta inicial e sem estimativa de renúncia, mas vale acompanhar para clientes do agronegócio exportador.",
+      "item": "Câmara — PL 3.989/2025 (alíquota zero para agroexportadoras)",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "A Comissão de Agricultura aprovou o substitutivo do deputado Rafael Pezenti ao PL 3.989/2025, que prevê alíquota zero de PIS/Cofins, CSLL e IRPJ por 24 meses e suspensão da contribuição patronal para empresas agropecuárias preponderantemente exportadoras. O texto também cria o PETR-AGRO, com descontos de até 70% em multas e juros, 120 parcelas e uso de prejuízo fiscal e base negativa. Segue para CFT e CCJC em caráter conclusivo.",
+      "status": "Aprovado na Comissão de Agricultura"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "STF — Informativo nº 1.235",
+          "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo.htm"
+        }
+      ],
+      "impacto": "Holdings patrimoniais e empresas imobiliárias podem afastar a cobrança municipal na conferência de imóveis ao capital, o que reforça planejamentos societários e sucessórios e embasa a revisão de autuações.",
+      "item": "STF — imunidade do ITBI na integralização de capital (Tema 1.348)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "O Informativo STF nº 1.235, divulgado em 04/11, registra que o Plenário Virtual (RE 1.495.108/SP, rel. Min. Edson Fachin, sessão encerrada em 19/10) deu provimento ao recurso por maioria: a imunidade do ITBI na integralização de capital com imóveis é incondicionada e não depende da atividade preponderante da empresa, ressalvadas simulação ou fraude.",
+      "status": "Julgado (Inf. 1.235)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "STF — Informativo nº 1.235",
+          "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo.htm"
+        }
+      ],
+      "impacto": "Só os contribuintes que ajuizaram ação até 05/02/2021 recuperam o indébito anterior; a majoração da alíquota modal fica mantida.",
+      "item": "STF — ICMS do Maranhão (ADIs 7.115 e 7.635)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "No mesmo informativo, o Plenário Virtual (rel. Min. Nunes Marques) declarou inconstitucional a alíquota de 27% de ICMS sobre energia e comunicações no Maranhão (ADI 7.115), modulando os efeitos para o exercício de 2024 e ressalvando ações ajuizadas até 05/02/2021. Na ADI 7.635, julgou constitucional a elevação da alíquota modal de 20% para 22% e depois 23%.",
+      "status": "Julgado (Inf. 1.235)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-04/coacao-em-cessao-de-quotas-exige-dilacao-probatoria-e-afasta-julgamento-antecipado/"
+        }
+      ],
+      "impacto": "Em disputas societárias que alegam vício de vontade, o instrumento de cessão não basta para julgamento antecipado; a parte tem direito à produção de provas.",
+      "item": "TJ-SP — coação em cessão de quotas exige instrução",
+      "materia": "Empresarial",
+      "relevancia": "MÉDIA",
+      "resumo": "A 2ª Câmara Reservada de Direito Empresarial (AI 2401814-74.2025.8.26.0000, rel. Des. Grava Brazil) cassou o julgamento antecipado que rejeitara o pedido de anulação de cessão de quotas por coação, por entender que o vício de consentimento depende de prova. Foram mantidos o indeferimento da inclusão no patrimônio social de imóvel arrematado por terceira empresa e a extinção do pedido de reconhecimento de sócio de fato.",
+      "status": "Julgado"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-04/inconstitucionalidade-do-ibs-cbs-sobre-adquirentes-de-imoveis-nos-leiloes-judiciais/"
+        }
+      ],
+      "impacto": "Fornece fundamentos para questionar a incidência em arrematações a partir de 2027 e para precificar riscos em leilões.",
+      "item": "IBS/CBS sobre arrematantes em leilão judicial",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Heleno Taveira Torres (Consultor Tributário) sustenta que o art. 21, II, 'b', da LC 214/2025 é inconstitucional ao tornar o arrematante contribuinte de IBS/CBS: a arrematação é ato expropriatório do Estado, sobrepõe-se ao ITBI, desestimula leilões e contraria o art. 130, parágrafo único, do CTN e o Tema 1.134 do STJ.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-04/o-processo-administrativo-fiscal-e-a-lc-236-2026-reflexos-no-ambito-federal/"
+        }
+      ],
+      "impacto": "Antecipa mudanças em prazos e estratégias no Carf; convém acompanhar a adaptação do Decreto 70.235/72 e do Ricarf.",
+      "item": "LC 236/2026 e o processo administrativo fiscal federal",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Diego Diniz Ribeiro (Direto do Carf) defende que as normas gerais de PAF inseridas no CTN pela LC 236/2026 (arts. 208-A a 208-J e 211-B) vincularão o processo federal após dois anos. Ele aponta como pontos de ajuste o prazo de 20 dias úteis para o recurso especial, os embargos contra qualquer decisão, a vinculação a precedentes e o sobrestamento automático, que entra em choque com o art. 100 do Ricarf.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-04/reforma-tributaria-split-payment-ainda-nao-mas-apa-e-e-rad-ja-funcionarao-em-janeiro/"
+        }
+      ],
+      "impacto": "Recomenda revisar contratos com fornecedores (cláusulas de recolhimento e garantias) e criar rotinas para conferir a apuração assistida.",
+      "item": "ApA-e e RAD antes do split payment",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Ricardo Almeida Ribeiro da Silva argumenta que, embora o split payment ainda não seja viável, a Apuração Assistida (ApA-e) e o Recolhimento Antecipado do Débito (RAD) devem operar já em janeiro de 2027 (Decreto 12.955/2026 e Resolução CGIBS 6/2026). Com isso, o crédito de IBS/CBS passa a depender da extinção do débito do fornecedor, e a confirmação ou o silêncio sobre a apuração pré-preenchida pode constituir o crédito tributário.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "Migalhas de Peso",
+          "url": "https://www.migalhas.com.br/depeso/467761/tributacao-das-subvencoes-regra-e-excecao-ou-excecoes"
+        }
+      ],
+      "impacto": "Empresas que recebem subvenções de fomento à inovação (Finep, Lei do Bem) podem rever a tributação por IRPJ, CSLL e PIS/Cofins.",
+      "item": "Subvenções: exceções reconhecidas na SC Cosit 196/2026",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Edison Carlos Fernandes e Jorge Guilherme Moreira (FF Law) observam que, apesar da Lei 14.789/2023, a Solução de Consulta Cosit 196/2026 afastou a tributação de subvenções à inovação concedidas com base no art. 19 da Lei 10.973/2004 e no art. 21 da Lei 11.196/2005, com apoio no art. 30 da Lei 12.350/2010. Para os autores, a pergunta deixa de ser se todas as subvenções são tributáveis e passa a ser quais não são.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "04/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-04/imposto-seletivo-sobre-bens-minerais-entre-a-protecao-ambiental-e-os-limites-da-eficiencia-economica/"
+        }
+      ],
+      "impacto": "Ajuda a construir argumentos sobre a proporcionalidade do IS para mineradoras.",
+      "item": "Imposto Seletivo sobre bens minerais",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Gustavo Henrique Galon Fernandes sustenta que o IS sobre minerais pode servir à proteção ambiental, mas, por incidir sobre o valor econômico do produto e não sobre a intensidade do dano, não reproduz uma tributação corretiva. Para ele, o tributo deve ser avaliado pelas mudanças de comportamento que provocar, e não pela arrecadação.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Itens já reportados em edições anteriores não foram repetidos. O período começa em 04/11 porque a edição anterior foi gerada ao meio-dia desse dia; foram incluídos também atos da Receita de 03/11 que ela não captou.",
+  "periodo": "04/11/2026 a 05/11/2026"
+}
