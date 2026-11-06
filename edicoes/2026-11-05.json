@@ -283,22 +283,6 @@
       "status": "Julgado (Inf. 1.235)"
     },
     {
-      "categoria": "tribunais",
-      "fontes": [
-        {
-          "data": "04/11/2026",
-          "nome": "STF — Informativo nº 1.235",
-          "url": "https://www.stf.jus.br/arquivo/informativo/documento/informativo.htm"
-        }
-      ],
-      "impacto": "Só os contribuintes que ajuizaram ação até 05/02/2021 recuperam o indébito anterior; a majoração da alíquota modal fica mantida.",
-      "item": "STF — ICMS do Maranhão (ADIs 7.115 e 7.635)",
-      "materia": "Tributário",
-      "relevancia": "MÉDIA",
-      "resumo": "No mesmo informativo, o Plenário Virtual (rel. Min. Nunes Marques) declarou inconstitucional a alíquota de 27% de ICMS sobre energia e comunicações no Maranhão (ADI 7.115), modulando os efeitos para o exercício de 2024 e ressalvando ações ajuizadas até 05/02/2021. Na ADI 7.635, julgou constitucional a elevação da alíquota modal de 20% para 22% e depois 23%.",
-      "status": "Julgado (Inf. 1.235)"
-    },
-    {
       "categoria": "artigos",
       "fontes": [
         {

@@ -2,8 +2,7 @@
   "data": "2026-11-06",
   "destaques": [
     "CBS 2027: CNI pede ao Senado revisão da alíquota de 11,3% calculada pelo TCU; OAB e 27 entidades pedem adiar CBS e Imposto Seletivo para 2028. O estudo do TCU chega ao Senado em 10/11 e a resolução deve sair até 15/12.",
-    "Semana que vem: em 11/11 a 1ª Seção do STJ pauta os repetitivos Temas 1.263 (seguro garantia x protesto/Cadin), 1.412 (bonificações na base do PIS/Cofins) e 1.426; o DCP do 3º trimestre vence em 13/11.",
-    "TJ-SP afasta, em exceção de pré-executividade, multa estadual de 355% por efeito confiscatório (limite de 100%, Tema 863 do STF), com honorários contra a Fazenda."
+    "Semana que vem: em 11/11 a 1ª Seção do STJ pauta os repetitivos Temas 1.263 (seguro garantia x protesto/Cadin), 1.412 (bonificações na base do PIS/Cofins) e 1.426; o DCP do 3º trimestre vence em 13/11."
   ],
   "fontesPesquisadas": [
     {
@@ -144,22 +143,6 @@
   ],
   "geradoEm": "2026-11-06T09:50:03Z",
   "itens": [
-    {
-      "categoria": "tribunais",
-      "fontes": [
-        {
-          "data": "05/11/2026",
-          "nome": "ConJur",
-          "url": "https://conjur.com.br/2026-nov-05/tj-sp-afasta-multa-de-355-em-execucao-fiscal-de-r-24-milhoes/"
-        }
-      ],
-      "impacto": "Reforça a via da exceção de pré-executividade para reduzir multas estaduais acima de 100% do tributo, com ganho de honorários sucumbenciais ao contribuinte.",
-      "item": "TJ-SP — multa de 355% afastada em execução fiscal",
-      "materia": "Tributário",
-      "relevancia": "MÉDIA",
-      "resumo": "A 13ª Câmara de Direito Público do TJ-SP (AI 2215786-61.2026.8.26.0000, rel. Des. Borelli Thomaz), por unanimidade, considerou confiscatória multa punitiva de cerca de 355% do imposto em execução fiscal de R$ 24 milhões, aplicando o limite de 100% do Tema 863 do STF. Admitiu a discussão em exceção de pré-executividade e condenou a Fazenda em honorários (Tema 1.076 do STJ).",
-      "status": "Julgado"
-    },
     {
       "categoria": "legislativo",
       "fontes": [
