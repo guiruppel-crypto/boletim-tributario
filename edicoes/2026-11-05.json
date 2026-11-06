@@ -38,11 +38,6 @@
     },
     {
       "grupo": "Tribunais",
-      "nome": "TJ-SP — Câmaras Reservadas de Direito Empresarial (via ConJur)",
-      "url": "https://conjur.com.br/2026-nov-04/coacao-em-cessao-de-quotas-exige-dilacao-probatoria-e-afasta-julgamento-antecipado/"
-    },
-    {
-      "grupo": "Tribunais",
       "nome": "CARF (busca)",
       "obs": "sem decisões noticiadas no período",
       "url": "https://www.gov.br/carf/pt-br"
@@ -81,18 +76,6 @@
       "nome": "CGIBS (busca)",
       "obs": "sem novidades no período",
       "url": "https://www.cgibs.gov.br/"
-    },
-    {
-      "grupo": "Órgãos e atos oficiais",
-      "nome": "CVM (busca)",
-      "obs": "sem novidades no período",
-      "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes/"
-    },
-    {
-      "grupo": "Órgãos e atos oficiais",
-      "nome": "DREI (busca)",
-      "obs": "sem novidades no período",
-      "url": "https://www.gov.br/empresas-e-negocios/pt-br/drei"
     },
     {
       "grupo": "Órgãos e atos oficiais",
@@ -314,22 +297,6 @@
       "relevancia": "MÉDIA",
       "resumo": "No mesmo informativo, o Plenário Virtual (rel. Min. Nunes Marques) declarou inconstitucional a alíquota de 27% de ICMS sobre energia e comunicações no Maranhão (ADI 7.115), modulando os efeitos para o exercício de 2024 e ressalvando ações ajuizadas até 05/02/2021. Na ADI 7.635, julgou constitucional a elevação da alíquota modal de 20% para 22% e depois 23%.",
       "status": "Julgado (Inf. 1.235)"
-    },
-    {
-      "categoria": "tribunais",
-      "fontes": [
-        {
-          "data": "04/11/2026",
-          "nome": "ConJur",
-          "url": "https://conjur.com.br/2026-nov-04/coacao-em-cessao-de-quotas-exige-dilacao-probatoria-e-afasta-julgamento-antecipado/"
-        }
-      ],
-      "impacto": "Em disputas societárias que alegam vício de vontade, o instrumento de cessão não basta para julgamento antecipado; a parte tem direito à produção de provas.",
-      "item": "TJ-SP — coação em cessão de quotas exige instrução",
-      "materia": "Empresarial",
-      "relevancia": "MÉDIA",
-      "resumo": "A 2ª Câmara Reservada de Direito Empresarial (AI 2401814-74.2025.8.26.0000, rel. Des. Grava Brazil) cassou o julgamento antecipado que rejeitara o pedido de anulação de cessão de quotas por coação, por entender que o vício de consentimento depende de prova. Foram mantidos o indeferimento da inclusão no patrimônio social de imóvel arrematado por terceira empresa e a extinção do pedido de reconhecimento de sócio de fato.",
-      "status": "Julgado"
     },
     {
       "categoria": "artigos",

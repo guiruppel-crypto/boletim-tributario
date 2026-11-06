@@ -1,7 +1,6 @@
 {
   "data": "2026-11-06",
   "destaques": [
-    "STJ (4ª Turma): subclasses na RJ são válidas, mas deságio de 90% sobre créditos trabalhistas acima de 25 salários mínimos viola a isonomia e foi anulado (REsps 2.107.582, 2.039.036 e 2.021.576).",
     "CBS 2027: CNI pede ao Senado revisão da alíquota de 11,3% calculada pelo TCU; OAB e 27 entidades pedem adiar CBS e Imposto Seletivo para 2028. O estudo do TCU chega ao Senado em 10/11 e a resolução deve sair até 15/12.",
     "Semana que vem: em 11/11 a 1ª Seção do STJ pauta os repetitivos Temas 1.263 (seguro garantia x protesto/Cadin), 1.412 (bonificações na base do PIS/Cofins) e 1.426; o DCP do 3º trimestre vence em 13/11.",
     "TJ-SP afasta, em exceção de pré-executividade, multa estadual de 355% por efeito confiscatório (limite de 100%, Tema 863 do STF), com honorários contra a Fazenda.",
@@ -39,12 +38,6 @@
       "url": "https://www.gov.br/carf/pt-br/jurisprudencia/acordaos-carf"
     },
     {
-      "grupo": "Tribunais",
-      "nome": "TJ-SP — Câmaras Reservadas de Direito Empresarial",
-      "obs": "sem decisões noticiadas no período",
-      "url": "https://www.tjsp.jus.br/CamarasEspecializadasReservadas"
-    },
-    {
       "grupo": "Órgãos e atos oficiais",
       "nome": "Receita Federal — Notícias",
       "obs": "sem novidades no período",
@@ -61,12 +54,6 @@
       "nome": "Receita Federal — Normas (Sijut)",
       "obs": "sem novidades no período",
       "url": "https://normas.receita.fazenda.gov.br/"
-    },
-    {
-      "grupo": "Órgãos e atos oficiais",
-      "nome": "CVM — Resoluções",
-      "obs": "sem novidades no período",
-      "url": "https://conteudo.cvm.gov.br/legislacao/resolucoes.html"
     },
     {
       "grupo": "Órgãos e atos oficiais",
@@ -151,7 +138,7 @@
     },
     {
       "grupo": "Pesquisa geral",
-      "nome": "Busca web — artigos e decisões tributárias e empresariais",
+      "nome": "Busca web — artigos e decisões tributárias",
       "obs": "resultados genéricos descartados",
       "url": "https://www.google.com/"
     },
@@ -163,22 +150,6 @@
   ],
   "geradoEm": "2026-11-06T09:50:03Z",
   "itens": [
-    {
-      "categoria": "tribunais",
-      "fontes": [
-        {
-          "data": "05/11/2026",
-          "nome": "ConJur",
-          "url": "https://conjur.com.br/2026-nov-05/stj-veta-subclasse-de-credor-trabalhista-com-desagio-de-90-na-rj/"
-        }
-      ],
-      "impacto": "Planos com tratamento diferenciado da classe trabalhista precisam de critério objetivo e deságio proporcional; cláusulas agressivas ficam sujeitas a anulação mesmo após aprovação em assembleia.",
-      "item": "STJ — subclasse de credores trabalhistas com deságio de 90% na RJ",
-      "materia": "Empresarial",
-      "relevancia": "ALTA",
-      "resumo": "A 4ª Turma do STJ (rel. Min. Antonio Carlos Ferreira; REsps 2.107.582, 2.039.036 e 2.021.576) admitiu a criação de subclasses de credores no plano de recuperação, mas anulou a cláusula que impunha deságio de 90% sobre a parcela dos créditos trabalhistas acima de 25 salários mínimos, por violar a isonomia. A Min. Isabel Gallotti acompanhou pela anulação apenas por considerar o deságio abusivo.",
-      "status": "Julgado"
-    },
     {
       "categoria": "tribunais",
       "fontes": [
@@ -326,38 +297,6 @@
       "materia": "Tributário",
       "relevancia": "MÉDIA",
       "resumo": "Em análise ao Migalhas, Luiz Eduardo Costa Lucas (Martinelli Advogados) destaca fatores adicionais na importação (1,17 para veículos, embarcações e aeronaves; 1,45 para bebidas alcoólicas e açucaradas), reduções de 10% a 40% para pequenos produtores de bebidas e o risco da apuração assistida: sem manifestação da empresa, o saldo calculado pela Receita é presumido correto.",
-      "status": "Artigo"
-    },
-    {
-      "categoria": "artigos",
-      "fontes": [
-        {
-          "data": "06/11/2026",
-          "nome": "ConJur",
-          "url": "https://conjur.com.br/2026-nov-06/a-concorrencia-nao-pode-ser-proibida-por-contrato/"
-        }
-      ],
-      "impacto": "Contratos de distribuição e plataformas devem calibrar cláusulas de exclusividade para evitar nulidade e risco concorrencial.",
-      "item": "Cláusulas de banimento e concorrência",
-      "materia": "Empresarial",
-      "relevancia": "MÉDIA",
-      "resumo": "Gesner Oliveira (GO Associados, ex-presidente do Cade) distingue exclusividade, que pode ter justificativa econômica, de cláusulas que proíbem o parceiro de negociar com rivais, que considera barreira artificial à luz do art. 36 da Lei 12.529/2011. Usa como caso a decisão unânime da 2ª Câmara Reservada de Direito Empresarial do TJ-SP que vedou à 99Food cláusulas impeditivas de relação de restaurantes com a Keeta.",
-      "status": "Artigo"
-    },
-    {
-      "categoria": "artigos",
-      "fontes": [
-        {
-          "data": "05/11/2026",
-          "nome": "Migalhas",
-          "url": "https://www.migalhas.com.br/depeso/467854/recuperacao-judicial-do-produtor-rural-realidade-brasileira"
-        }
-      ],
-      "impacto": "Orienta credores do agro e produtores sobre sujeição de CPRs e garantias e sobre a ausência de proteção automática a coobrigados.",
-      "item": "Recuperação judicial do produtor rural",
-      "materia": "Empresarial",
-      "relevancia": "BAIXA",
-      "resumo": "Igor Gouveia de Andrade (Amaral & Melo) analisa dados da Serasa (448 pedidos de RJ no agro no 2º trimestre de 2026, queda de 20,7%) e defende que o êxito da RJ rural depende de viabilidade econômica e transparência. Revisita o Tema 1.145 do STJ e precedente da 3ª Turma que excluiu da RJ crédito de CPR física vinculada a barter.",
       "status": "Artigo"
     }
   ],

@@ -60,8 +60,6 @@ a { color: var(--accent); }
 }
 .controls button:disabled { opacity: .4; cursor: default; }
 .controls button[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
-.controls .spacer { flex: 1; }
-.label { font: 600 12px var(--f-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
 
 /* Folha */
 .sheet { max-width: 1040px; margin: 0 auto; background: var(--paper); border: 1px solid var(--rule); box-shadow: 0 1px 2px rgba(0,0,0,.06), 0 8px 24px rgba(20,30,45,.06); padding: clamp(20px, 4vw, 48px); display: grid; gap: 22px; }
@@ -86,7 +84,6 @@ th, td { border: 1px solid var(--rule); padding: 7px 9px; text-align: left; vert
 th { background: var(--head); font-family: var(--f-ui); font-weight: 600; font-size: 12.5px; letter-spacing: .02em; }
 col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; } col.c-imp { width: 21%; } col.c-rel { width: 8%; } col.c-src { width: 15%; }
 .item-name { font-weight: 600; }
-.materia { display: block; margin-top: 4px; font-family: var(--f-ui); font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
 .status { font-family: var(--f-ui); font-size: 12px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; }
 .rel { display: inline-block; font-family: var(--f-ui); font-weight: 600; font-size: 12px; letter-spacing: .05em; padding: 1px 6px; border-radius: 3px; }
 .rel-ALTA { color: var(--alta); background: var(--alta-bg); }
@@ -121,22 +118,15 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
     <select id="pick" aria-label="Escolher edição" disabled><option>Carregando…</option></select>
     <button type="button" id="next" disabled>Próxima →</button>
   </div>
-  <span class="spacer"></span>
-  <div class="group" id="mat">
-    <span class="label">Matéria</span>
-    <button type="button" data-m="todas" aria-pressed="true">Todas</button>
-    <button type="button" data-m="Tributário" aria-pressed="false">Tributário</button>
-    <button type="button" data-m="Empresarial" aria-pressed="false">Empresarial</button>
-  </div>
 </div>
 
 <article class="sheet" id="sheet">
   <header class="mast">
-    <div class="org">Boletim do Dia <small>Tributário e Empresarial</small></div>
+    <div class="org">Boletim do Dia <small>Direito Tributário</small></div>
     <div class="title" id="mtitle">Boletim do dia</div>
   </header>
   <div id="doc">
-    <div class="state"><p>Carregando a edição…</p><p>Cada edição reúne atos oficiais, legislativo e tribunais em matéria tributária e empresarial.</p></div>
+    <div class="state"><p>Carregando a edição…</p><p>Cada edição reúne atos oficiais, legislativo e decisões judiciais em matéria tributária.</p></div>
   </div>
   <footer class="footer">
     <span>Edição gerada automaticamente nos dias úteis, por volta das 7h (Brasília). Itens já reportados em edições anteriores não são repetidos.</span>
@@ -147,7 +137,7 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
 <script>
 (function () {
   const CATS = [
-    { id: "atos", nome: "Atos oficiais federais (DOU, Planalto, RFB, PGFN, Fazenda/CGIBS, CVM, DREI)" },
+    { id: "atos", nome: "Atos oficiais federais (DOU, Planalto, RFB, PGFN, Fazenda/CGIBS, CGSN)" },
     { id: "estados", nome: "Estados e municípios (Confaz, Sefaz, prefeituras)" },
     { id: "legislativo", nome: "Legislativo (Câmara e Senado)" },
     { id: "tribunais", nome: "Tribunais (STF, STJ, TRFs, TJs e CARF)" },
@@ -158,14 +148,11 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
   const safeUrl = (u) => /^https?:\/\//i.test(u || "") ? u : null;
   const REL = { "ALTA": 0, "MÉDIA": 1, "MEDIA": 1, "BAIXA": 2 };
 
-  let editions = [], currentId = null, materia = "todas";
-  try { materia = localStorage.getItem("materia") || "todas"; } catch (e) {}
+  let editions = [], currentId = null;
 
   const fmtLong = (iso) => { const [y, m, d] = iso.split("-").map(Number); return new Date(Date.UTC(y, m - 1, d, 12)).toLocaleDateString("pt-BR", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" }).replace(/^1 /, "1º "); };
   const fmtShort = (iso) => iso.split("-").reverse().join("/");
   const hashId = () => { const h = location.hash.replace(/^#e/, ""); return /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : null; };
-
-  function syncMat() { document.querySelectorAll("#mat button").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.m === materia))); }
 
   function row(i) {
     const rel = String(i.relevancia || "").toUpperCase().replace("MEDIA", "MÉDIA");
@@ -174,7 +161,7 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
       return "<span>" + esc(f.nome) + (f.data ? ' <span class="when">— ' + esc(f.data) + "</span>" : "") + (u ? ' <a href="' + esc(u) + '" target="_blank" rel="noopener">Acessar</a>' : "") + "</span>";
     }).join("");
     return "<tr>" +
-      '<td data-label="Item"><span class="item-name">' + esc(i.item) + '</span><span class="materia">' + esc(i.materia || "") + "</span></td>" +
+      '<td data-label="Item"><span class="item-name">' + esc(i.item) + "</span></td>" +
       '<td data-label="Status"><span class="status">' + esc(i.status) + "</span></td>" +
       '<td data-label="Resumo">' + esc(i.resumo) + "</td>" +
       '<td data-label="Impacto prático">' + esc(i.impacto) + "</td>" +
@@ -183,7 +170,6 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
   }
 
   function render() {
-    syncMat();
     const pick = $("pick");
     if (!editions.length) {
       pick.innerHTML = "<option>Sem edições</option>"; pick.disabled = true; $("prev").disabled = $("next").disabled = true;
@@ -201,14 +187,14 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
     $("mtitle").textContent = "Boletim do dia — " + fmtShort(currentId);
 
     const all = Array.isArray(ed.itens) ? ed.itens : [];
-    const itens = all.filter(i => materia === "todas" || i.materia === materia);
+    const itens = all.filter(i => i.materia !== "Empresarial");
     let html = '<div class="preamble"><p class="place">' + esc(fmtLong(currentId)) + "</p>" +
       (ed.periodo ? '<p class="period">Período coberto: ' + esc(ed.periodo) + ". " + esc(ed.nota || "") + "</p>" : "") + "</div>";
 
     const dest = Array.isArray(ed.destaques) ? ed.destaques : [];
     html += '<section class="destaques"><h2>1. Destaques do dia</h2>' + (dest.length ? "<ul>" + dest.map(d => "<li>" + esc(d) + "</li>").join("") + "</ul>" : '<p class="none">Sem destaques no período.</p>') + "</section>";
 
-    html += '<section><h2>2. Novidades por categoria' + (materia !== "todas" ? " · " + esc(materia) : "") + "</h2>";
+    html += '<section><h2>2. Novidades por categoria</h2>';
     CATS.forEach((c, n) => {
       const lista = itens.filter(i => i.categoria === c.id).sort((a, b) => (REL[String(a.relevancia).toUpperCase()] ?? 3) - (REL[String(b.relevancia).toUpperCase()] ?? 3));
       html += '<div class="cat"><h3>2.' + (n + 1) + " " + esc(c.nome) + "</h3>";
@@ -234,10 +220,8 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
   $("pick").addEventListener("change", e => go(e.target.value));
   $("prev").addEventListener("click", () => { const i = editions.findIndex(e => e.id === currentId); if (editions[i + 1]) go(editions[i + 1].id); });
   $("next").addEventListener("click", () => { const i = editions.findIndex(e => e.id === currentId); if (i > 0) go(editions[i - 1].id); });
-  $("mat").addEventListener("click", e => { const b = e.target.closest("button"); if (!b) return; materia = b.dataset.m; try { localStorage.setItem("materia", materia); } catch (x) {} render(); });
   window.addEventListener("hashchange", () => { const h = hashId(); if (h && h !== currentId) { currentId = h; render(); } });
   currentId = hashId();
-  syncMat();
 
   // Fora do Claude (por exemplo, no GitHub Pages ou num servidor local), lê as edições dos arquivos em edicoes/.
   async function loadFromFiles() {

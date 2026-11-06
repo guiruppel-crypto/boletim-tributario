@@ -1,6 +1,6 @@
-# Boletim do Dia — Tributário e Empresarial
+# Boletim do Dia — Direito Tributário
 
-Boletim diário com as novidades de direito **tributário** e **empresarial**: atos oficiais, estados e municípios, legislativo, decisões de tribunais (STF, STJ, TRFs, TJs e CARF) e artigos. Cada edição traz destaques, tabelas por categoria (status, resumo, impacto prático, relevância, fontes datadas) e a lista de fontes pesquisadas.
+Boletim diário com as novidades de direito **tributário**: atos oficiais, estados e municípios, legislativo, decisões judiciais e administrativas (STF, STJ, TRFs, TJs e CARF) e artigos. Cada edição traz destaques, tabelas por categoria (status, resumo, impacto prático, relevância, fontes datadas) e a lista de fontes pesquisadas.
 
 Este repositório é uma cópia do painel publicado no Claude, gerada a partir do artifact e das edições gravadas no banco de dados dele.
 
@@ -35,7 +35,7 @@ Também funciona no GitHub Pages: ative em *Settings → Pages*, com a branch `m
   "destaques": ["..."],
   "itens": [{
     "categoria": "atos | estados | legislativo | tribunais | artigos",
-    "materia": "Tributário | Empresarial",
+    "materia": "Tributário",
     "item": "STJ — CSLL e amortização de deságio",
     "status": "Julgado",
     "resumo": "...",
