@@ -82,13 +82,9 @@ h3 { font-size: 15px; font-weight: 700; margin: 0 0 6px; }
 table { width: 100%; border-collapse: collapse; font-size: 13.5px; line-height: 1.45; }
 th, td { border: 1px solid var(--rule); padding: 7px 9px; text-align: left; vertical-align: top; }
 th { background: var(--head); font-family: var(--f-ui); font-weight: 600; font-size: 12.5px; letter-spacing: .02em; }
-col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; } col.c-imp { width: 21%; } col.c-rel { width: 8%; } col.c-src { width: 15%; }
+col.c-item { width: 16%; } col.c-status { width: 11%; } col.c-res { width: 34%; } col.c-imp { width: 23%; } col.c-src { width: 16%; }
 .item-name { font-weight: 600; }
 .status { font-family: var(--f-ui); font-size: 12px; font-weight: 600; letter-spacing: .03em; text-transform: uppercase; }
-.rel { display: inline-block; font-family: var(--f-ui); font-weight: 600; font-size: 12px; letter-spacing: .05em; padding: 1px 6px; border-radius: 3px; }
-.rel-ALTA { color: var(--alta); background: var(--alta-bg); }
-.rel-MÉDIA { color: var(--media); background: var(--media-bg); }
-.rel-BAIXA { color: var(--baixa); background: var(--baixa-bg); }
 .src { display: grid; gap: 6px; }
 .src span { display: block; }
 .src .when { color: var(--muted); font-size: 12.5px; font-variant-numeric: tabular-nums; }
@@ -155,7 +151,6 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
   const hashId = () => { const h = location.hash.replace(/^#e/, ""); return /^\d{4}-\d{2}-\d{2}$/.test(h) ? h : null; };
 
   function row(i) {
-    const rel = String(i.relevancia || "").toUpperCase().replace("MEDIA", "MÉDIA");
     const fontes = (Array.isArray(i.fontes) ? i.fontes : []).map(f => {
       const u = safeUrl(f.url);
       return "<span>" + esc(f.nome) + (f.data ? ' <span class="when">— ' + esc(f.data) + "</span>" : "") + (u ? ' <a href="' + esc(u) + '" target="_blank" rel="noopener">Acessar</a>' : "") + "</span>";
@@ -165,7 +160,6 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
       '<td data-label="Status"><span class="status">' + esc(i.status) + "</span></td>" +
       '<td data-label="Resumo">' + esc(i.resumo) + "</td>" +
       '<td data-label="Impacto prático">' + esc(i.impacto) + "</td>" +
-      '<td data-label="Relevância"><span class="rel rel-' + esc(rel) + '">' + esc(rel) + "</span></td>" +
       '<td data-label="Fonte, data e link"><div class="src">' + fontes + "</div></td></tr>";
   }
 
@@ -199,7 +193,7 @@ col.c-item { width: 15%; } col.c-status { width: 11%; } col.c-res { width: 30%; 
       const lista = itens.filter(i => i.categoria === c.id).sort((a, b) => (REL[String(a.relevancia).toUpperCase()] ?? 3) - (REL[String(b.relevancia).toUpperCase()] ?? 3));
       html += '<div class="cat"><h3>2.' + (n + 1) + " " + esc(c.nome) + "</h3>";
       if (!lista.length) html += '<p class="none">Sem novidades relevantes no período.</p>';
-      else html += '<div class="tbl-wrap"><table><colgroup><col class="c-item"><col class="c-status"><col class="c-res"><col class="c-imp"><col class="c-rel"><col class="c-src"></colgroup><thead><tr><th>Item</th><th>Status</th><th>Resumo</th><th>Impacto prático</th><th>Relevância</th><th>Fonte, data e link</th></tr></thead><tbody>' + lista.map(row).join("") + "</tbody></table></div>";
+      else html += '<div class="tbl-wrap"><table><colgroup><col class="c-item"><col class="c-status"><col class="c-res"><col class="c-imp"><col class="c-src"></colgroup><thead><tr><th>Item</th><th>Status</th><th>Resumo</th><th>Impacto prático</th><th>Fonte, data e link</th></tr></thead><tbody>' + lista.map(row).join("") + "</tbody></table></div>";
       html += "</div>";
     });
     html += "</section>";
