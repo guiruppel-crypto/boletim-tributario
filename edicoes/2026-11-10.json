@@ -1,0 +1,266 @@
+{
+  "data": "2026-11-10",
+  "destaques": [
+    "STJ leva o fim antecipado do Perse ao novo regime de relevância (Tema 1.483, REsp 2.261.411, rel. min. Francisco Falcão): vai definir, à luz do art. 178 do CTN, se o teto de R$ 15 bilhões da Lei 14.859/2024 autoriza encerrar o benefício antes dos 60 meses; processos ficam sobrestados após a instrução em todo o país.",
+    "Dividendos: sentença da JF de Botucatu gradua a retenção de 10% da Lei 15.270/2025 para distribuições mensais entre R$ 50 mil e R$ 100 mil, aplicando progressividade semelhante à da tributação mínima anual — solução intermediária que abre nova linha de pedido para sócios na faixa de transição.",
+    "CBS 2027: artigo de Alexandre Alkmim Teixeira alerta que a dispensa do art. 48 da LC 214/2025 cai com o RAD operacional em janeiro, antes do split payment, condicionando o crédito do adquirente ao pagamento do fornecedor — risco de caixa e de dupla extinção do débito.",
+    "Agenda: hoje (10/11) está prevista a audiência da CAE sobre a alíquota de referência da CBS; amanhã (11/11) a 1ª Seção do STJ pauta os repetitivos 1.263, 1.412 e 1.426; em 13/11 vencem IOF/IRRF decendiais e o DCP; em 16/11, EFD-Reinf (out.) e EFD-Contribuições (set.)."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem decisões tributárias no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Plenário Virtual da semana",
+      "obs": "sem processos tributários em destaque",
+      "url": "https://noticias.stf.jus.br/postsnoticias/confira-os-destaques-do-plenario-virtual-desta-semana-7/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Notícias",
+      "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/09112026-primeira-secao-reconhece-relevancia-e-suspende-processos-sobre-revogacao-antecipada-do-beneficio-fiscal-do-perse-.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "obs": "pesquisa web; sem nova edição no período",
+      "url": "https://processo.stj.jus.br/jurisprudencia/externo/informativo/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF — Jurisprudência",
+      "obs": "pesquisa web; sem decisões de CSRF noticiadas no período",
+      "url": "https://www.gov.br/carf/pt-br"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Normas (Sijut)",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://normas.receita.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Comitê Gestor do IBS",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.cgibs.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Confaz",
+      "obs": "pesquisa web; sem novos convênios no período",
+      "url": "https://www.confaz.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Secretaria da Fazenda do Paraná — Notícias",
+      "obs": "sem novidades tributárias no período",
+      "url": "https://www.fazenda.pr.gov.br/arquivo"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Assembleia Legislativa do Paraná",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.assembleia.pr.leg.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Prefeitura de Curitiba — Notícias",
+      "obs": "pesquisa web; sem novidades tributárias no período",
+      "url": "https://www.curitiba.pr.gov.br/"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Senado Notícias",
+      "obs": "sem novidades tributárias no período",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Câmara dos Deputados — Notícias",
+      "obs": "sem novidades tributárias no período",
+      "url": "https://www.camara.leg.br/noticias"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas — Quentes e Migalhas de Peso",
+      "url": "https://www.migalhas.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA — Tributos",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.jota.info/tributos"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Rota da Jurisprudência",
+      "obs": "sem novidades no período",
+      "url": "https://rotadajurisprudencia.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis — Notícias",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contadores.cnt.br",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.contadores.cnt.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Gazeta Mercantil",
+      "obs": "sem item aproveitado",
+      "url": "https://gazetamercantil.com/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca web — artigos e decisões tributárias",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.google.com/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Agenda de prazos (Contábeis)",
+      "url": "https://www.contabeis.com.br/noticias/80691/efd-reinf-e-efd-contribuicoes-vencem-em-16-de-novembro-de-2026/"
+    }
+  ],
+  "geradoEm": "2026-11-10T09:49:50Z",
+  "itens": [
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "STJ",
+          "url": "https://www.stj.jus.br/sites/portalp/paginas/comunicacao/noticias/2026/09112026-primeira-secao-reconhece-relevancia-e-suspende-processos-sobre-revogacao-antecipada-do-beneficio-fiscal-do-perse-.aspx"
+        },
+        {
+          "data": "09/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/quentes/468143/stj-reconhece-relevancia-e-suspende-acoes-sobre-fim-do-perse"
+        }
+      ],
+      "impacto": "Ações sobre a extinção antecipada do Perse (IRPJ, CSLL, PIS/Cofins) seguem até a instrução e depois ficam sobrestadas em todo o país; empresas de eventos e turismo devem revisar provisões e estratégia processual até a fixação da tese.",
+      "item": "STJ — fim antecipado do Perse (Tema de Relevância 1.483)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A 1ª Seção submeteu o REsp 2.261.411 (rel. min. Francisco Falcão, proposta do min. Sérgio Kukina) ao novo regime de relevância da EC 125, regulamentado pela Lei 15.484/2026 e pela Emenda Regimental 55/2026, para definir se o atingimento do teto de R$ 15 bilhões da Lei 14.859/2024 permite encerrar o Perse antes dos 60 meses previstos, à luz do art. 178 do CTN. É um dos primeiros temas tributários levados ao novo rito, aplicado a recurso contra acórdão anterior à lei.",
+      "status": "Afetado (relevância)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/noticias/80695/juiz-limita-retencao-de-ir-sobre-dividendos-acima-de-r-50-mil/"
+        }
+      ],
+      "impacto": "Primeira solução intermediária sobre a nova retenção: em vez de afastá-la, gradua a alíquota, o que abre uma alternativa de pedido para sócios com distribuições mensais na faixa de transição; a decisão vale só para o impetrante e cabe recurso ao TRF3.",
+      "item": "JF Botucatu — retenção progressiva do IR sobre dividendos (Lei 15.270/2025)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A 1ª Vara Federal de Botucatu (MS 5000643-74.2026.4.03.6131) concedeu a segurança para que, nas distribuições mensais entre R$ 50 mil e R$ 100 mil à mesma pessoa física, a retenção de 10% prevista na Lei 15.270/2025 siga a progressividade da tributação mínima anual (cerca de 1 ponto percentual a cada R$ 5 mil), mantendo-se 10% acima de R$ 100 mil. O juiz invocou capacidade contributiva e proporcionalidade, e tratou a retenção excessiva como antecipação sem lastro, comparável a empréstimo compulsório.",
+      "status": "Sentença"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/quentes/468148/juiz-ordena-envio-de-debitos-a-pgfn-para-analisar-transacao-tributaria"
+        }
+      ],
+      "impacto": "Reconhece um caminho judicial contra a demora da Receita em remeter débitos à dívida ativa, útil a quem precisa acessar editais de transação da PGFN com prazo de adesão em curso.",
+      "item": "JF São José dos Campos — envio de débitos à PGFN para permitir transação",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A 2ª Vara Federal de São José dos Campos (MS 5005756-93.2026.4.03.6103) determinou que a Receita encaminhe à PGFN os débitos exigíveis retidos além do prazo regulamentar de 90 dias e rescinda parcelamento do Simples já inadimplido, para que o contribuinte possa buscar transação da Lei 13.988/2020. Para o juízo, a retenção além do prazo administrativo prejudica o contribuinte e o próprio Fisco, sem garantir a adesão nem impor inscrição retroativa.",
+      "status": "Sentença"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-09/sem-split-payment-o-credito-nao-pode-esperar-pelo-pagamento/"
+        }
+      ],
+      "impacto": "Aponta o principal risco de caixa da transição da CBS e um fundamento constitucional (art. 156-A, §5º, II) para contestar o condicionamento do crédito; empresas devem mapear o fluxo de créditos e cláusulas com fornecedores.",
+      "item": "CBS 2027 — crédito condicionado sem split payment (arts. 47 e 48 da LC 214)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Alexandre Alkmim Teixeira (UFMG) sustenta que a dispensa transitória do art. 48 da LC 214/2025 cai assim que o recolhimento pelo adquirente (RAD) estiver operacional em janeiro de 2027, embora o split payment só chegue no 2º semestre, de modo facultativo. Com isso, o crédito do adquirente passaria a depender da extinção do débito do fornecedor, com risco de dupla extinção e solve et repete; propõe manter o crédito pelo documento idôneo até o split payment ser obrigatório.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-09/prescricao-tributaria-na-falencia-o-inciso-viii-e-o-recomeco-adiado/"
+        }
+      ],
+      "impacto": "Afeta a estratégia de defesa de sócios e redirecionamentos após falências; os autores recomendam pedir o encerramento da falência logo após a liquidação para reiniciar o prazo, e lembram que o Veto 48/2026 ainda pende de análise.",
+      "item": "LC 236/2026 — prescrição do crédito tributário na falência",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Oreste Laspro e Bruno Lee analisam o novo inciso VIII do §1º do art. 174 do CTN, incluído pela LC 236/2026, pelo qual a habilitação do crédito tributário na falência interrompe a prescrição, que fica suspensa até o encerramento do processo. Defendem limites: a suspensão não alcançaria corresponsáveis nem habilitações anteriores à lei e, para o empresário individual, cessaria quanto a bens fora da massa após a extinção das obrigações.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/468012/pagamento-parcial-basta-para-definir-a-decadencia-tributaria"
+        }
+      ],
+      "impacto": "Oferece argumentos para discutir autos de infração lavrados com base no art. 173, I, do CTN quando houve recolhimento relacionado ao mesmo tributo e período.",
+      "item": "LC 236/2026 — pagamento parcial e decadência (art. 150, §6º, do CTN)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Luana Meirelles Figueiredo (Daudt, Castro e Gallotti Olinto) observa que o novo §6º do art. 150 do CTN fixa a contagem da decadência pelo fato gerador quando há pagamento parcial, mas sustenta que não basta qualquer recolhimento: o Fisco deve demonstrar a correlação entre pagamento, apuração e diferença cobrada, separando valores declarados com tratamento controverso dos não declarados.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-09/iva-de-30-e-split-payment-crise-da-teoria-tributaria-diante-da-arrecadacao-instantanea/"
+        }
+      ],
+      "impacto": "Fornece balizas teóricas para futuras discussões sobre devido processo em cobranças automatizadas de IBS e CBS.",
+      "item": "IVA elevado e split payment — limites da arrecadação instantânea",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Faustino Júnior argumenta que o split payment não cria nem extingue a obrigação tributária, mas comprime as etapas entre operação e apropriação estatal dos recursos; por isso, correção, suspensão e restituição precisam ser executáveis pela própria infraestrutura de cobrança, e alíquota alta só configura confisco se demonstrada a carga concreta.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Itens já reportados em edições anteriores não foram repetidos.",
+  "periodo": "10/11/2026 a 10/11/2026"
+}

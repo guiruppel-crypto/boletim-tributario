@@ -1,0 +1,373 @@
+{
+  "data": "2026-11-11",
+  "destaques": [
+    "CBS 2027: o TCU entregou em 10/11 ao Senado o acórdão que recomenda alíquota de referência de 11,3%; o Senado tem até 15/12 para fixá-la por resolução (sem ela, vale o cálculo do TCU), e a CAE ouvirá o ministro Dario Durigan e o presidente do TCU em 17/11.",
+    "PEC 22/2026: o Executivo propõe manter o IPI, a partir de 2027, sobre os bens sujeitos ao Imposto Seletivo até que as alíquotas do IS produzam efeitos (02/02/2027, pela MP 1.399/2026), evitando um intervalo sem tributação seletiva na virada do ano.",
+    "STF publicou o acórdão do Tema 1.309 (RE 1.479.774): os rendimentos das reservas técnicas das seguradoras não integram a base do PIS/Cofins sobre faturamento, definida como a receita bruta operacional das atividades típicas.",
+    "STJ: pedido de vista do ministro Bellizze suspendeu, na 1ª Seção, a AR 7.416, em que a Fazenda tenta rescindir decisão de 2020 favorável a créditos de PIS/Cofins no monofásico com base no Tema 1.093; relator e revisor votaram contra a rescisória.",
+    "Agenda: hoje (11/11) a 1ª Seção do STJ pauta os repetitivos 1.263, 1.412 e 1.426; em 13/11 vencem IOF/IRRF decendiais e o DCP; em 16/11, EFD-Reinf (out.) e EFD-Contribuições (set.); em 17/11, sessão da CAE sobre a CBS; o PGDAS-D de outubro vence em 23/11."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem decisões tributárias no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Últimas notícias",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Ultimas-noticias.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "obs": "pesquisa web; sem nova edição no período",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF — Jurisprudência",
+      "obs": "pesquisa web; sem decisões de CSRF noticiadas no período",
+      "url": "https://www.gov.br/carf/pt-br/jurisprudencia"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Notícias",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Normas (Sijut)",
+      "obs": "pesquisa web; sem novas INs no período",
+      "url": "https://normas.receita.fazenda.gov.br/sijut2consulta/consulta.action"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Comitê Gestor do IBS",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.cgibs.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Confaz",
+      "obs": "pesquisa web; sem novos convênios no período",
+      "url": "https://www.confaz.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Secretaria da Fazenda do Paraná — Notícias",
+      "obs": "sem novidades tributárias no período",
+      "url": "https://www.fazenda.pr.gov.br/Noticias"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Assembleia Legislativa do Paraná",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.assembleia.pr.leg.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Prefeitura e Câmara de Curitiba",
+      "obs": "pesquisa web; sem novidades tributárias no período",
+      "url": "https://www.curitiba.pr.gov.br/"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Senado Notícias",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Câmara dos Deputados — Últimas notícias",
+      "obs": "sem item aproveitado",
+      "url": "https://www.camara.leg.br/noticias/ultimas"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas — Quentes",
+      "obs": "sem notícias tributárias no período",
+      "url": "https://www.migalhas.com.br/quentes"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas de Peso",
+      "url": "https://www.migalhas.com.br/depeso"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA — Tributos",
+      "obs": "pesquisa web; resultados antigos descartados",
+      "url": "https://www.jota.info/tributos"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Rota da Jurisprudência",
+      "url": "https://rotadajurisprudencia.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Tributário nos Bastidores",
+      "obs": "decisão anterior ao período",
+      "url": "https://tributarionosbastidores.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis — Notícias e artigos",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "O Povo — Economia",
+      "url": "https://www.opovo.com.br/noticias/economia/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Tribuna do Sertão (reprodução da Agência Senado)",
+      "url": "https://www.tribunadosertao.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Gazeta do Povo",
+      "obs": "matéria anterior ao período",
+      "url": "https://www.gazetadopovo.com.br/republica/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "CBIC",
+      "obs": "matéria anterior ao período",
+      "url": "https://cbic.org.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Atlas Público",
+      "obs": "bloqueia leitura automática",
+      "url": "https://atlaspublico.com.br/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca web — artigos e decisões tributárias",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.google.com/"
+    }
+  ],
+  "geradoEm": "2026-11-11T09:49:27Z",
+  "itens": [
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-libera-acesso-as-novas-apis-de-apuracao-da-cbs"
+        },
+        {
+          "data": "10/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/noticias/80723/receita-libera-apis-para-consultar-debitos-e-creditos-da-cbs/"
+        }
+      ],
+      "impacto": "Permite integrar o ERP à apuração assistida e conciliar débitos e créditos de CBS antes de 2027; equipes fiscais e de TI devem regerar credenciais e iniciar os testes.",
+      "item": "RFB — APIs de apuração da CBS (versão 2.0)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A Receita Federal divulgou a versão 2.0 das APIs de consulta à apuração da CBS, que permitem ao contribuinte ou procurador digital extrair débitos (com documento fiscal de origem e situação: suspenso, extinto, devedor) e créditos (apropriados, a apropriar, utilizados e não utilizados), a partir da mesma base do serviço Minha Apuração Assistida. O acesso exige nova credencial (as chaves anteriores devem ser canceladas) e há ambientes de produção restrita e de produção beta; novos serviços via API estão previstos ainda para novembro.",
+      "status": "Publicado"
+    },
+    {
+      "categoria": "atos",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/noticias/80735/nt-2026-004-como-testar-ibs-e-cbs-na-svrs/"
+        }
+      ],
+      "impacto": "Emissores desses documentos (transporte, energia, telecom, água e gás) devem testar desde já a totalização com IBS/CBS para evitar rejeições na virada de 2027.",
+      "item": "SVRS — NT 2026.004 (testes de IBS/CBS em DF-e)",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "A NT 2026.004, com ambiente de homologação da SVRS, passou a aceitar dois cenários de validação para CT-e, BP-e, NF3e, NFCom, NFAg e NFGás: regras de 2026 e simulação das regras de 2027, em que IBS e CBS passam a compor o total do documento. Para o CT-e, a versão 1.01 entra em produção em 14/12/2026, e a simulação de 2027 deve usar a alíquota de CBS de 2026 até a publicação da alíquota de referência.",
+      "status": "Publicado"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Agência Senado",
+          "url": "https://www12.senado.leg.br/noticias/materias/2026/11/10/senado-recebe-acordao-do-tcu-que-propoe-aliquota-de-11-3-para-a-cbs"
+        },
+        {
+          "data": "10/11/2026",
+          "nome": "O Povo",
+          "url": "https://www.opovo.com.br/noticias/economia/2026/11/10/calheiros-afirma-que-durigan-participara-de-sessao-da-cae-para-debater-aliquota-da-cbs.html"
+        }
+      ],
+      "impacto": "A alíquota definirá a carga da CBS a partir de janeiro de 2027 e deve ser usada já nas revisões de preços e contratos; o calendário até 15/12 é curto para mudanças relevantes.",
+      "item": "Senado — acórdão do TCU sobre a alíquota de referência da CBS (11,3%)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "O presidente do TCU, ministro Vital do Rêgo, entregou em 10/11 ao presidente do Senado, Davi Alcolumbre, o acórdão que recomenda alíquota de referência de 11,3% para a CBS em 2027, elaborada com a Receita Federal; TCU e CAE formarão assessoramento técnico conjunto. O Senado tem até 15/12 para fixar o percentual por resolução — sem ela, prevalece o cálculo do TCU — e o presidente da CAE, Renan Calheiros, anunciou sessão em 17/11 com o ministro da Fazenda, Dario Durigan, e o presidente do TCU.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/noticias/80725/pec-22-2026-propoe-manter-ipi-ate-inicio-do-imposto-seletivo/"
+        }
+      ],
+      "impacto": "Fabricantes e importadores de bebidas, fumígenos, veículos, embarcações e aeronaves devem acompanhar a PEC, pois ela elimina o intervalo sem tributação seletiva em janeiro de 2027 e afeta a precificação da virada do ano.",
+      "item": "Câmara — PEC 22/2026 (IPI mantido até o início do Imposto Seletivo)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "O Poder Executivo protocolou na Câmara a PEC 22/2026, que abre exceção à redução a zero do IPI em 2027 para os bens que a legislação do Imposto Seletivo considera prejudiciais à saúde ou ao meio ambiente, mantendo o IPI sobre eles até que as alíquotas do IS produzam efeitos (02/02/2027, pela MP 1.399/2026); a exceção da Zona Franca de Manaus permanece. A proposta aguarda despacho e depende de aprovação em dois turnos nas duas Casas.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "legislativo",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Rota da Jurisprudência",
+          "url": "https://rotadajurisprudencia.com.br/2026/11/projeto-que-exclui-ibs-e-cbs-da-base-de-tributos-atuais-sera-debatido-em-audiencia-na-camara-dos-deputados/"
+        }
+      ],
+      "impacto": "Uma solução legislativa reduziria o contencioso que já produziu liminares sobre o tema em SP; enquanto isso, contribuintes devem avaliar ações preventivas para as competências de 2027.",
+      "item": "Câmara — PLP 16/2025 (IBS/CBS fora da base de ICMS, ISS e IPI)",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "A Comissão de Finanças e Tributação aprovou o Requerimento nº 50/2026, do deputado Kim Kataguiri, para audiência pública sobre o PLP 16/2025 (dep. Gilson Marques e outros), que altera a LC 87/1996 e a LC 214/2025 para impedir que IBS e CBS integrem a base de cálculo do ICMS, do ISS e do IPI durante a transição. A data da audiência ainda não foi divulgada.",
+      "status": "Em tramitação"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Rota da Jurisprudência (APET)",
+          "url": "https://rotadajurisprudencia.com.br/2026/11/tema-1309-stf-exclui-receitas-financeiras-de-reservas-tecnicas-de-seguradoras-da-base-do-pis-cofins/"
+        }
+      ],
+      "impacto": "Seguradoras podem pleitear a exclusão e a compensação do quinquênio; a publicação abre prazo para embargos e permite aplicar a tese aos processos sobrestados, além de influenciar o debate sobre receitas financeiras de outras entidades com reservas obrigatórias.",
+      "item": "STF — PIS/Cofins e receitas financeiras das reservas técnicas de seguradoras (Tema 1.309)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Foi publicado em 09/11 o acórdão do RE 1.479.774/RJ (Tema 1.309 da repercussão geral), julgado em setembro: por maioria, vencidos os ministros Alexandre de Moraes, Flávio Dino, Cristiano Zanin e Gilmar Mendes, o Plenário fixou que o PIS/Cofins sobre faturamento recai sobre a receita bruta operacional das atividades típicas e que os rendimentos das aplicações das reservas técnicas das seguradoras não integram essa base sob a Lei 9.718/1998 e a redação original do art. 195, I, 'b', da CF. A notícia não informa modulação.",
+      "status": "Julgado (acórdão publicado)"
+    },
+    {
+      "categoria": "tribunais",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-10/stj-debate-limite-da-rescisoria-para-adequar-posicao-sobre-tributacao/"
+        }
+      ],
+      "impacto": "O resultado vai indicar se a Fazenda pode usar a rescisória para alcançar decisões transitadas antes de repetitivos desfavoráveis ao contribuinte — tema sensível para quem tem coisa julgada em teses tributárias.",
+      "item": "STJ — rescisória para adequar coisa julgada ao Tema 1.093 (PIS/Cofins monofásico)",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "A 1ª Seção começou a julgar a AR 7.416, em que a Fazenda Nacional busca desconstituir acórdão da 1ª Turma de 2020 que autorizou distribuidora de combustíveis a tomar créditos de PIS/Cofins no regime monofásico, depois vedados pelo Tema 1.093. O relator, ministro Teodoro Silva Santos, e o revisor, ministro Afrânio Vilela, votaram pela improcedência, com debate sobre a Súmula 343 e a revisão do art. 505, I, do CPC; o ministro Marco Aurélio Bellizze pediu vista por preocupação com o precedente.",
+      "status": "Suspenso (vista)"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-09/a-decisao-de-itbi-do-stf-deve-ser-aplicada-ao-fii/"
+        }
+      ],
+      "impacto": "Oferece fundamento para questionar a cobrança de ITBI em aportes de imóveis a FIIs, hoje negada pelos TJs, e para reavaliar estruturas de planejamento imobiliário.",
+      "item": "ITBI na integralização de imóveis em FII após o Tema 1.348",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Hugo Câmara (Bichara Advogados) defende que a tese do Tema 1.348/STF — imunidade do ITBI na integralização de capital mesmo quando a atividade preponderante é imobiliária — deve alcançar os fundos de investimento imobiliário. Rebate o argumento dos TJs de que o FII não tem personalidade jurídica nem capital social, com base em interpretação evolutiva (Tema 593/STF) e na neutralidade, para que a carga não dependa do veículo escolhido.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/468167/reforma-tributaria-e-servicos-intensivos-em-mao-de-obra"
+        }
+      ],
+      "impacto": "Empresas de limpeza, vigilância, TI e consultoria devem simular a carga de 2027 e revisar reequilíbrio de contratos de longo prazo, inclusive com a administração pública (arts. 373 a 377 da LC 214).",
+      "item": "IBS/CBS e serviços intensivos em mão de obra",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Ana Paula Caodaglio (Caodaglio & Associados) sustenta que, como a folha não gera crédito de IBS/CBS (art. 6º, I, 'a', da LC 214/2025) mas compõe o preço tributado na saída, prestadores intensivos em mão de obra suportarão carga próxima da alíquota cheia, o que redistribui a carga e estimula pejotização e terceirização. Aponta que o crédito presumido de 60% do PLP 63/2025 está parado no Senado e que a LC 227/2026 não tratou do ponto.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "09/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/468145/desafios-e-perspectivas-da-tributacao-de-dividendos"
+        }
+      ],
+      "impacto": "Útil para calibrar a estratégia de distribuição de lucros e de eventual mandado de segurança: as vitórias são pontuais e com efeitos restritos às impetrantes.",
+      "item": "Dividendos na Lei 15.270/2025: o mapa do contencioso",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Ana Flávia da Cunha Silva e Júlia D'Auria de Andrade (/asbz) mapeiam as disputas sobre a retenção de 10% e a tributação mínima: ADIs 7.912 e 7.914 (prazo para aprovar lucros de 2025), ADI 7.917 (Simples Nacional, cautelar indeferida), decisão provisória do TRF-4 limitando a retenção entre R$ 50 mil e R$ 100 mil e sentença da 9ª Vara Cível Federal de SP contra o 'efeito degrau', com efeito suspensivo dado pelo TRF-3. Concluem que o alcance do regime ainda depende dos tribunais e da Receita.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Migalhas",
+          "url": "https://www.migalhas.com.br/depeso/468179/reforma-tributaria-e-imposto-seletivo-para-2027"
+        }
+      ],
+      "impacto": "Contribuintes do IS devem monitorar a votação da MP até 31/12: sem conversão no exercício, há fundamento para questionar a cobrança em 2027.",
+      "item": "Imposto Seletivo 2027 e o art. 62, §2º, da CF",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Ricardo Pontes Vivacqua (Comissão Especial de Direito Tributário do CFOAB) detalha alíquotas e regras da MP 1.399/2026 e alerta que, além da noventena (efeitos a partir de 02/02/2027), a cobrança depende da conversão da MP em lei até o fim de 2026, por exigência do art. 62, §2º, da CF. Destaca ainda que confirmar ou ajustar a apuração assistida do IS implica confissão de dívida.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "10/11/2026",
+          "nome": "Contábeis",
+          "url": "https://www.contabeis.com.br/artigos/80744/reforma-tributaria-publicacoes-tardias-pressionam-equipes/"
+        }
+      ],
+      "impacto": "Reforça a conveniência de documentar o esforço de adequação e de pleitear período sem penalidades para obrigações acessórias em 2027, como sugerido pela Petrobras ao Ministério da Fazenda.",
+      "item": "Publicações tardias de DF-e e o risco de multas na reforma",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Mauro Negruni critica o pacote de cerca de 30 publicações sobre documentos fiscais eletrônicos editado em 30/10: estima que leitura, especificação, desenvolvimento e testes exigem prazo superior ao que resta até a entrada em vigor e aponta regra técnica que admite item cujo total não corresponde a quantidade vezes preço unitário.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Itens já reportados em edições anteriores não foram repetidos.",
+  "periodo": "11/11/2026 a 11/11/2026"
+}

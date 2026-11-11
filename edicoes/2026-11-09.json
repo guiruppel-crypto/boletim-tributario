@@ -1,0 +1,207 @@
+{
+  "data": "2026-11-09",
+  "destaques": [
+    "CBS 2027: o TCU deve entregar amanhã (10/11) ao Senado o estudo que fixou a alíquota de referência em 11,3%, no mesmo dia da audiência pública na CAE (TCU, Receita, Fazenda e estados); sem resolução do Senado até 15/12, vale o percentual calculado pelo TCU.",
+    "Tema 118/STF (ISS fora da base do PIS/Cofins, 6 x 5): análise publicada no fim de semana alerta que o ganho econômico depende da modulação ainda não fixada — se prevalecer o marco da ata, o benefício se concentra em quem já litigava, o que torna urgente avaliar ações para quem ainda não ajuizou.",
+    "Prazos da semana: em 13/11 vencem IOF e IRRF decendiais, Cide-Combustíveis/Remessas e a entrega do DCP do 3º trimestre; em 16/11, contribuições previdenciárias (GPS), EFD-Contribuições (set/2026) e EFD-Reinf (out/2026). A segunda fase da DeRE (eventos mensais) está prevista para começar em 15/11.",
+    "Reforma do consumo nos contratos: artigos do período recomendam aditivos para definir quem suporta a CBS de 2027 (caso da soja comercializada em 2026 com cláusula de preço \"com todos os tributos\") e mostram que, no Simples híbrido, mais crédito ao adquirente não significa menor custo para o cliente."
+  ],
+  "fontesPesquisadas": [
+    {
+      "grupo": "Tribunais",
+      "nome": "STF — Portal de notícias",
+      "obs": "sem decisões tributárias no período",
+      "url": "https://noticias.stf.jus.br/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Últimas notícias",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Ultimas-noticias.aspx"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "STJ — Informativo de Jurisprudência",
+      "obs": "pesquisa web; sem nova edição no período",
+      "url": "https://scon.stj.jus.br/jurisprudencia/externo/informativo/"
+    },
+    {
+      "grupo": "Tribunais",
+      "nome": "CARF — Jurisprudência",
+      "obs": "pesquisa web; sem decisões noticiadas no período",
+      "url": "https://www.gov.br/carf/pt-br/jurisprudencia/sumulas-carf/2a-turma-da-csrf"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Receita Federal — Normas (Sijut)",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://normas.receita.fazenda.gov.br/"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "PGFN — Notícias",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.gov.br/pgfn/pt-br/assuntos/noticias"
+    },
+    {
+      "grupo": "Órgãos e atos oficiais",
+      "nome": "Comitê Gestor do IBS",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.cgibs.gov.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Secretaria da Fazenda do Paraná — Notícias",
+      "obs": "sem novidades tributárias no período",
+      "url": "https://www.fazenda.pr.gov.br/Noticias"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Assembleia Legislativa do Paraná",
+      "obs": "pesquisa web; sem novidades no período",
+      "url": "https://www.assembleia.pr.leg.br/"
+    },
+    {
+      "grupo": "Paraná",
+      "nome": "Prefeitura de Curitiba — Notícias",
+      "obs": "pesquisa web; sem novidades tributárias no período",
+      "url": "https://www.curitiba.pr.gov.br/"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Senado Notícias",
+      "obs": "sem novidades no período; agenda da CBS em 10/11",
+      "url": "https://www12.senado.leg.br/noticias"
+    },
+    {
+      "grupo": "Legislativo",
+      "nome": "Câmara dos Deputados — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.camara.leg.br/noticias"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "ConJur — Tributário",
+      "url": "https://conjur.com.br/areas/tributario/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Migalhas — Migalhas de Peso e Quentes",
+      "obs": "sem textos tributários datados no período",
+      "url": "https://www.migalhas.com.br/"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "JOTA — Tributos",
+      "obs": "bloqueia leitura automática",
+      "url": "https://www.jota.info/tributos"
+    },
+    {
+      "grupo": "Portais jurídicos",
+      "nome": "Rota da Jurisprudência",
+      "obs": "sem novidades no período",
+      "url": "https://rotadajurisprudencia.com.br/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Contábeis — Notícias",
+      "obs": "sem novidades no período",
+      "url": "https://www.contabeis.com.br/noticias/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Jornal Grande Bahia",
+      "url": "https://jornalgrandebahia.com.br/2026/11/tcu-deve-enviar-ao-senado-calculo-da-cbs-de-113-na-terca-feira-10-11-2026/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "CBIC",
+      "url": "https://cbic.org.br/senado-abre-discussao-sobre-aliquota-de-113-da-cbs-e-relator-questiona-calculo-do-tcu/"
+    },
+    {
+      "grupo": "Imprensa e especializados",
+      "nome": "Massa News — DeRE",
+      "url": "https://massa.com.br/servicos-informacoes-uteis/receita-federal-nova-obrigacao-15-novembro-2026"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Busca web — artigos e decisões tributárias",
+      "obs": "resultados genéricos descartados",
+      "url": "https://www.google.com/"
+    },
+    {
+      "grupo": "Pesquisa geral",
+      "nome": "Agenda tributária de novembro (Contábeis)",
+      "url": "https://www.contabeis.com.br/noticias/80445/agenda-tributaria-de-novembro-de-2026-confira-os-prazos/"
+    }
+  ],
+  "geradoEm": "2026-11-09T09:47:30Z",
+  "itens": [
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "08/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-08/iss-sai-da-base-do-pis-cofins-e-o-valor-da-vitoria-agora-depende-da-modulacao/"
+        }
+      ],
+      "impacto": "Prestadores de serviço que ainda não ajuizaram ação devem avaliar com urgência medida judicial antes do marco temporal; quem já litiga deve acompanhar os embargos de declaração.",
+      "item": "Tema 118/STF — ISS fora da base do PIS/Cofins e a modulação",
+      "materia": "Tributário",
+      "relevancia": "ALTA",
+      "resumo": "Gabriel Santana Vieira lembra que o STF concluiu em 21/10 o RE 592.616 (Tema 118), por 6 x 5 com desempate do ministro Fux, afastando o ISS da base do PIS/Cofins sem ainda fixar a modulação. Sustenta que, se prevalecer a proposta de efeitos a partir da publicação da ata, o benefício para quem não litiga ficará restrito a poucas competências até o fim de 2026, e que a modulação pode ser rediscutida em embargos diante da maioria apertada.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "07/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-07/o-impacto-da-cbs-em-2027-sobre-as-181-milhoes-de-toneladas-de-soja-da-safra-de-verao/"
+        }
+      ],
+      "impacto": "Tradings, cooperativas e agroindústrias devem formalizar aditivos com cláusulas sobre inclusão da CBS no preço, variação de alíquota e tratamento do crédito; simples notificação não altera o preço contratado.",
+      "item": "CBS 2027 e os contratos de soja da safra de verão",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Michel Guerios Netto aponta que, com o fim do PIS/Cofins em 2027, as vendas internas de soja passam à CBS calculada por fora (LC 214/2025), o que gera conflito em contratos firmados em 2026 com preço \"com todos os tributos\". Mostra que o custo real do comprador varia conforme o vendedor: crédito integral se adquirir de cerealista ou cooperativa e apenas crédito presumido se comprar de produtor rural não contribuinte.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "07/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-07/mais-credito-nao-significa-menor-custo-simples-hibrido-e-adquirente-contribuinte/"
+        }
+      ],
+      "impacto": "A opção pelo regime híbrido deve considerar a carteira de clientes, a parcela das próprias compras que gera crédito e o custo de conformidade, com reavaliação ao longo da transição.",
+      "item": "Simples híbrido x Simples puro para o adquirente contribuinte",
+      "materia": "Tributário",
+      "relevancia": "MÉDIA",
+      "resumo": "Beatriz Nobile Medeiros defende que a diferença de crédito de IBS/CBS entre o Simples puro e o híbrido não indica, por si só, o regime mais vantajoso: decomposto o preço, o custo para o cliente contribuinte é o mesmo, mudando apenas o desembolso inicial (maior no híbrido) e a previsibilidade do crédito.",
+      "status": "Artigo"
+    },
+    {
+      "categoria": "artigos",
+      "fontes": [
+        {
+          "data": "07/11/2026",
+          "nome": "ConJur",
+          "url": "https://conjur.com.br/2026-nov-07/tema-1-462-do-stj-incluir-reserva-remunerada-na-isencao-de-ir-e-interpretar-ou-ampliar-lei/"
+        }
+      ],
+      "impacto": "Militares inativos da reserva com moléstia grave podem pleitear a isenção e a restituição; a suspensão alcança apenas processos de juizados da Fazenda Pública com pedido de uniformização.",
+      "item": "Tema 1.462/STJ — isenção de IR por doença grave e militar da reserva remunerada",
+      "materia": "Tributário",
+      "relevancia": "BAIXA",
+      "resumo": "Armando Henriques Nunes Junior sustenta que a isenção do art. 6º, XIV, da Lei 7.713/1988 alcança os proventos da reserva remunerada, porque a segunda parte do dispositivo não repete a expressão \"aposentadoria ou reforma\" e, após a ADI 6.025, o requisito é a inatividade; reconhece o peso do art. 111 do CTN. O tema foi afetado pela 1ª Seção em 23/06/2026 e ainda não tem tese fixada.",
+      "status": "Artigo"
+    }
+  ],
+  "nota": "Itens já reportados em edições anteriores não foram repetidos.",
+  "periodo": "07/11/2026 a 09/11/2026"
+}
